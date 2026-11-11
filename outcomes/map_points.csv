@@ -1,0 +1,2894 @@
+kind,lat,lon,year,so2_drop,pm25_sample,so4_sample,role
+exit event,31.0069,-88.0103,2015.0,5269.093999999999,True,False,
+exit event,31.0069,-88.0103,2022.0,3601.223,False,False,
+exit event,34.0128,-85.9708,2015.0,4025.235,False,False,
+exit event,33.6446,-87.2003,2015.0,761.825,False,False,
+exit event,33.6446,-87.2003,2019.0,1695.0590000000002,False,False,
+exit event,32.6017,-87.7811,2016.0,30843.297,False,False,
+exit event,33.2442,-86.4567,2016.0,20970.941,True,False,
+exit event,34.7439,-87.8486,2012.0,5325.003999999999,True,True,
+exit event,34.7439,-87.8486,2016.0,26332.621,True,False,
+exit event,34.8825,-85.7547,2010.0,7091.426,False,True,
+exit event,34.8825,-85.7547,2011.0,4661.433,False,False,
+exit event,34.8825,-85.7547,2014.0,2705.018,False,False,
+exit event,34.8825,-85.7547,2015.0,6270.518,False,True,
+exit event,32.0306,-93.5692,2021.0,3107.023,False,False,
+exit event,31.4858,-87.9106,2019.0,543.74,False,False,
+exit event,31.4858,-87.9106,2020.0,557.5649999999999,False,False,
+exit event,35.4159,-108.082,2020.0,809.629,False,False,
+exit event,34.9394,-110.3033,2015.0,2472.322,False,False,
+exit event,34.9394,-110.3033,2020.0,449.1500000000001,False,False,
+exit event,32.16,-110.9047,2016.0,1134.937,False,False,
+exit event,34.0825,-99.1753,2020.0,1778.89,False,False,
+exit event,29.7333,-81.6339,2023.0,3124.078,False,False,
+exit event,32.0619,-109.8931,2018.0,226.384,False,False,
+exit event,36.1906,-95.2889,2018.0,1941.0660000000005,False,False,
+exit event,30.4311,-81.5508,2017.0,2838.824,False,False,
+exit event,41.4947,-88.125,2016.0,11319.815,False,False,
+exit event,39.67,-105.0028,2013.0,2448.905,False,False,
+exit event,39.1486,-108.3189,2010.0,1584.608,False,False,
+exit event,39.8078,-104.9648,2011.0,4187.119000000001,False,False,
+exit event,39.8078,-104.9648,2012.0,4821.157999999999,False,False,
+exit event,39.8078,-104.9648,2015.0,872.47,False,False,
+exit event,39.8078,-104.9648,2017.0,1896.771,False,False,
+exit event,38.2081,-104.5747,2022.0,403.25800000000027,False,False,
+exit event,40.0195,-105.202,2017.0,871.493,False,False,
+exit event,38.8244,-104.8331,2016.0,3623.534,False,False,
+exit event,38.8244,-104.8331,2020.0,117.743,False,False,
+exit event,38.8244,-104.8331,2021.0,60.066,False,False,
+exit event,38.2387,-108.5083,2019.0,121.038,False,False,
+exit event,41.1706,-73.1843,2021.0,4.292,False,False,
+exit event,39.7372,-75.5033,2010.0,2210.86,False,False,
+exit event,38.5857,-75.2341,2010.0,5035.236000000001,False,False,
+exit event,38.5857,-75.2341,2011.0,11247.073,False,False,
+exit event,38.5857,-75.2341,2013.0,1843.778,False,False,
+exit event,28.9594,-82.7003,2018.0,9725.087,False,True,
+exit event,30.5661,-87.2289,2020.0,1269.725,False,False,
+exit event,30.6689,-84.8869,2014.0,-477.941,False,False,
+exit event,30.6689,-84.8869,2015.0,856.025,False,False,
+exit event,30.2689,-85.7003,2015.0,6470.63,False,False,
+exit event,30.2689,-85.7003,2016.0,2811.785,False,False,
+exit event,27.7944,-82.4036,2018.0,3469.4120000000003,False,False,
+exit event,27.7944,-82.4036,2024.0,536.2370000000001,False,False,
+exit event,29.7586,-82.3883,2021.0,215.28099999999995,False,False,
+exit event,28.0809,-81.9256,2021.0,578.6700000000001,False,False,
+exit event,34.2533,-85.3456,2018.0,11.340999999999998,False,False,
+exit event,34.2533,-85.3456,2019.0,132.95499999999998,False,False,
+exit event,33.1942,-83.2994,2013.0,-11560.058,False,False,
+exit event,33.1942,-83.2994,2015.0,32544.334000000003,True,True,
+exit event,33.8244,-84.475,2011.0,16690.527000000002,True,True,
+exit event,33.8244,-84.475,2012.0,18269.198,True,True,
+exit event,31.4444,-84.1322,2015.0,782.409,False,False,
+exit event,33.4622,-84.8986,2014.0,17671.824,False,True,
+exit event,33.4622,-84.8986,2015.0,8103.394,False,True,
+exit event,32.1486,-81.1458,2015.0,5147.9400000000005,True,False,
+exit event,40.5958,-89.6631,2015.0,2387.9140000000007,False,False,
+exit event,40.5958,-89.6631,2022.0,5982.476,False,False,
+exit event,39.0586,-89.4031,2019.0,33.015,False,False,
+exit event,39.1333,-87.6597,2011.0,5733.1900000000005,False,False,
+exit event,39.8194,-90.5647,2009.0,5550.719999999999,False,False,
+exit event,39.8194,-90.5647,2011.0,2465.74,False,False,
+exit event,41.8278,-87.7236,2012.0,6544.891,True,False,
+exit event,41.4947,-88.125,2016.0,2692.3160000000003,False,False,
+exit event,42.3833,-87.8133,2007.0,1589.0640000000003,False,False,
+exit event,42.3833,-87.8133,2022.0,1262.237,False,False,
+exit event,41.6334,-88.0626,2010.0,4302.16,False,False,
+exit event,41.6334,-88.0626,2015.0,4442.355,False,False,
+exit event,41.6334,-88.0626,2022.0,481.817,False,False,
+exit event,41.8508,-87.6533,2012.0,4128.990000000001,False,False,
+exit event,37.2103,-88.8606,2022.0,13230.82,False,False,
+exit event,38.205,-89.855,2016.0,1038.0510000000004,False,False,
+exit event,40.2797,-90.0775,2019.0,1066.067,False,False,
+exit event,41.3017,-89.3136,2019.0,4931.880999999999,False,False,
+exit event,40.1781,-87.7481,2011.0,2091.85,False,False,
+exit event,38.8639,-90.1325,2016.0,5067.507,True,True,
+exit event,39.7539,-89.6011,2020.0,481.058,False,False,
+exit event,39.7539,-89.6011,2021.0,-24.71700000000004,False,False,
+exit event,39.7539,-89.6011,2008.0,10338.85,False,False,
+exit event,39.7539,-89.6011,2009.0,12511.637,False,False,
+exit event,37.6206,-88.955,2020.0,4185.567999999999,False,False,
+exit event,41.7072,-87.5217,2012.0,8043.94,True,False,
+exit event,39.0831,-84.8581,2015.0,18090.918,True,False,
+exit event,39.7119,-86.1975,2015.0,29580.415,True,False,
+exit event,39.7119,-86.1975,2016.0,14925.436,True,False,
+exit event,39.4851,-86.4176,2015.0,6741.489,False,False,
+exit event,39.4851,-86.4176,2016.0,2756.23,False,False,
+exit event,39.7622,-86.1667,2013.0,0.138,False,False,
+exit event,39.7622,-86.1667,2014.0,0.26,False,False,
+exit event,38.5267,-87.2525,2021.0,-1050.0569999999998,False,False,
+exit event,38.5267,-87.2525,2023.0,2439.702,False,False,
+exit event,41.6433,-87.1225,2018.0,545.086,False,False,
+exit event,38.8067,-87.2472,2010.0,1427.258,False,False,
+exit event,38.2636,-85.8381,2012.0,514.6440000000002,False,False,
+exit event,38.2636,-85.8381,2021.0,246.061,False,False,
+exit event,39.53,-87.4247,2015.0,20130.684,True,False,
+exit event,39.53,-87.4247,2016.0,29111.046,True,False,
+exit event,37.91,-87.3267,2006.0,1834.605,False,False,
+exit event,38.5201,-87.2662,2014.0,8151.240000000002,True,False,
+exit event,38.5201,-87.2662,2015.0,8548.742,True,False,
+exit event,42.506,-90.6527,2011.0,781.702,False,False,
+exit event,43.3359,-91.1672,2008.0,1662.0789999999995,False,False,
+exit event,43.3359,-91.1672,2011.0,252.067,False,False,
+exit event,43.3359,-91.1672,2022.0,192.503,False,False,
+exit event,41.8081,-90.2345,2015.0,3023.838,False,False,
+exit event,41.9839,-91.6686,2008.0,1125.847,False,False,
+exit event,41.9439,-91.6386,2017.0,611.5219999999999,False,False,
+exit event,42.0472,-92.8627,2009.0,1384.554,False,False,
+exit event,42.0472,-92.8627,2012.0,4613.726000000001,False,False,
+exit event,41.5404,-90.4483,2015.0,2167.437,False,False,
+exit event,41.18,-95.8408,2015.0,4794.971,False,False,
+exit event,42.3251,-96.3797,2016.0,1034.8869999999995,False,False,
+exit event,40.7412,-91.1168,2021.0,2721.919,False,False,
+exit event,42.0247,-93.6069,2015.0,473.499,False,False,
+exit event,42.0247,-93.6069,2016.0,573.6229999999999,False,False,
+exit event,41.3981,-92.9144,2012.0,222.94700000000003,False,False,
+exit event,43.1606,-95.2569,2014.0,377.933,False,False,
+exit event,41.4569,-90.8233,2013.0,1366.199,False,False,
+exit event,37.0719,-94.6986,2012.0,1783.943,False,False,
+exit event,39.0072,-95.2692,2015.0,1584.496,False,False,
+exit event,39.0522,-95.5669,2015.0,3523.9429999999998,False,False,
+exit event,39.0522,-95.5669,2018.0,1141.588,False,False,
+exit event,39.1486,-94.6405,2015.0,3657.178,False,False,
+exit event,38.1707,-82.6176,2015.0,32696.209000000003,True,False,
+exit event,37.7889,-84.7139,2019.0,782.884,False,False,
+exit event,37.3636,-87.1214,2015.0,21967.326,False,True,
+exit event,38.0478,-84.8483,2011.0,1225.238,False,False,
+exit event,38.1828,-85.8894,2015.0,8752.538,True,True,
+exit event,38.0531,-85.91,2024.0,-334.828,False,False,
+exit event,37.8453,-87.5912,2007.0,280.264,False,False,
+exit event,37.7958,-87.0597,2019.0,1501.3279999999995,False,False,
+exit event,37.7958,-87.0597,2020.0,1977.343,False,False,
+exit event,37.2608,-86.9783,2016.0,13057.829000000002,False,True,
+exit event,37.2608,-86.9783,2017.0,8988.539999999999,False,True,
+exit event,37.2608,-86.9783,2020.0,2114.28,False,False,
+exit event,37.1517,-88.775,2010.0,-348.51800000000003,False,False,
+exit event,37.9628,-86.7917,2014.0,8145.767,True,False,
+exit event,37.6472,-87.5028,2019.0,846.6379999999999,False,False,
+exit event,37.6467,-87.5033,2015.0,5740.719,True,False,
+exit event,37.8807,-84.2634,2012.0,5325.3330000000005,True,True,
+exit event,37.8807,-84.2634,2015.0,138.852,False,False,
+exit event,39.3269,-76.365,2018.0,826.84,False,False,
+exit event,39.1781,-76.5268,2020.0,600.6659999999999,False,False,
+exit event,39.1781,-76.5268,2024.0,16.736999999999966,False,False,
+exit event,39.595,-77.8269,2012.0,647.595,False,False,
+exit event,38.5444,-76.6861,2021.0,197.935,False,False,
+exit event,39.2086,-77.4644,2020.0,73.35499999999999,False,False,
+exit event,38.3592,-76.9767,2022.0,863.097,False,False,
+exit event,42.2814,-72.6053,2014.0,130.222,False,False,
+exit event,41.737,-71.146,2010.0,379.671,False,False,
+exit event,41.7125,-71.1914,2017.0,875.854,False,False,
+exit event,42.5267,-70.8792,2011.0,4008.343,False,False,
+exit event,42.5267,-70.8792,2014.0,2076.312,False,False,
+exit event,43.2542,-86.2417,2016.0,9400.41,False,True,
+exit event,43.6425,-83.8431,2023.0,943.936,False,False,
+exit event,43.6425,-83.8431,2016.0,7405.1,True,False,
+exit event,41.7917,-83.4486,2016.0,6432.696,False,True,
+exit event,43.8519,-82.6436,2013.0,587.742,False,False,
+exit event,42.2733,-83.1131,2015.0,6917.284000000001,True,True,
+exit event,42.2733,-83.1131,2020.0,1440.571,False,False,
+exit event,42.7642,-82.4719,2016.0,10347.609,True,True,
+exit event,42.7642,-82.4719,2019.0,10200.831,True,True,
+exit event,42.7642,-82.4719,2022.0,13141.471,True,True,
+exit event,42.1236,-83.1811,2016.0,8277.917,True,True,
+exit event,42.1236,-83.1811,2022.0,3445.304,False,False,
+exit event,46.5789,-87.395,2006.0,4869.696,False,False,
+exit event,46.5789,-87.395,2009.0,4378.866000000002,False,False,
+exit event,46.5789,-87.395,2018.0,3818.646,False,False,
+exit event,46.5789,-87.395,2019.0,4609.433,False,False,
+exit event,43.0722,-86.2342,2020.0,146.779,False,False,
+exit event,42.7956,-86.1133,2016.0,143.209,False,False,
+exit event,42.7183,-84.5586,2013.0,1364.8910000000003,False,False,
+exit event,42.7183,-84.5586,2015.0,454.3619999999999,False,False,
+exit event,42.7183,-84.5586,2019.0,1202.3780000000002,False,False,
+exit event,42.7183,-84.5586,2020.0,150.079,False,False,
+exit event,42.6919,-84.6572,2022.0,2486.451,False,False,
+exit event,46.5314,-87.3917,2018.0,186.463,False,False,
+exit event,42.2081,-83.1453,2012.0,626.114,False,False,
+exit event,42.2081,-83.1453,2015.0,134.126,False,False,
+exit event,47.5306,-92.1619,2015.0,245.067,False,False,
+exit event,47.2603,-93.6531,2018.0,2561.408,False,False,
+exit event,44.8108,-93.2501,2015.0,3950.678,False,False,
+exit event,44.9331,-93.1075,2007.0,3405.2270000000003,False,False,
+exit event,45.0203,-93.2753,2008.0,12949.650999999998,True,True,
+exit event,45.0203,-93.2753,2009.0,10489.62,True,True,
+exit event,46.29,-96.0428,2021.0,749.4649999999999,False,False,
+exit event,43.7014,-92.9626,2013.0,4.002,False,False,
+exit event,44.0281,-92.4597,2013.0,8.940999999999999,False,False,
+exit event,30.4408,-89.0265,2015.0,70664.03600000001,False,True,
+exit event,37.3596,-94.5913,2019.0,739.218,False,False,
+exit event,38.3108,-93.9331,2015.0,6424.219,False,False,
+exit event,38.3108,-93.9331,2018.0,1208.217,False,False,
+exit event,39.1778,-94.1861,2018.0,4162.24,False,False,
+exit event,39.7246,-94.8773,2016.0,731.4789999999999,False,False,
+exit event,38.4017,-90.3358,2016.0,2348.338,False,False,
+exit event,38.4017,-90.3358,2022.0,1539.091,False,False,
+exit event,38.9658,-92.3175,2015.0,1046.072,False,False,
+exit event,39.0919,-94.3261,2015.0,997.558,False,False,
+exit event,37.1086,-93.2592,2015.0,1764.564,False,False,
+exit event,38.6853,-91.7556,2013.0,927.955,False,False,
+exit event,45.7747,-108.4803,2015.0,1620.073,False,False,
+exit event,41.3297,-95.9458,2016.0,5995.2040000000015,True,True,
+exit event,36.6531,-114.6364,2014.0,492.6969999999999,False,False,
+exit event,36.6531,-114.6364,2017.0,231.558,False,False,
+exit event,35.1458,-114.5917,2006.0,41599.066000000006,False,False,
+exit event,43.1411,-71.4692,2024.0,-457.845,False,False,
+exit event,43.0978,-70.7842,2006.0,4028.041,False,False,
+exit event,43.0978,-70.7842,2020.0,184.37,False,False,
+exit event,39.29,-74.6339,2013.0,756.1919999999999,False,False,
+exit event,39.29,-74.6339,2018.0,26.197,False,False,
+exit event,39.6747,-75.5015,2010.0,385.255,False,False,
+exit event,40.7478,-74.0719,2017.0,18.459,False,False,
+exit event,40.1797,-74.7325,2016.0,53.764,False,False,
+exit event,39.4889,-75.0347,2010.0,0.0,False,False,
+exit event,36.69,-108.4814,2013.0,3712.836,False,False,
+exit event,36.8006,-108.4386,2017.0,1681.9270000000004,False,False,
+exit event,36.8006,-108.4386,2022.0,936.119,False,False,
+exit event,41.573,-73.9646,2014.0,-23.859,False,False,
+exit event,42.1117,-75.9747,2008.0,5737.795,False,False,
+exit event,42.1117,-75.9747,2011.0,378.837,False,False,
+exit event,42.6789,-76.9483,2009.0,376.991,False,False,
+exit event,42.6789,-76.9483,2017.0,-0.603,False,False,
+exit event,42.6028,-76.6336,2018.0,160.81100000000004,False,False,
+exit event,42.6028,-76.6336,2019.0,769.3000000000001,False,False,
+exit event,42.97,-78.93,2006.0,8022.122000000001,False,True,
+exit event,42.97,-78.93,2007.0,5446.994999999999,True,True,
+exit event,42.97,-78.93,2016.0,1158.332,False,False,
+exit event,42.49,-79.35,2012.0,4323.118,False,False,
+exit event,42.49,-79.35,2013.0,1214.145,False,False,
+exit event,42.49,-79.35,2015.0,951.297,False,False,
+exit event,41.2578,-73.9797,2007.0,7512.772,True,True,
+exit event,41.2578,-73.9797,2008.0,6983.658,True,True,
+exit event,43.2689,-77.6294,2008.0,21718.945,True,True,
+exit event,42.0917,-79.2417,2008.0,1613.3759999999995,False,False,
+exit event,42.0917,-79.2417,2011.0,1056.702,False,False,
+exit event,42.0917,-79.2417,2013.0,214.215,False,False,
+exit event,35.4714,-82.5431,2019.0,766.199,False,False,
+exit event,35.4714,-82.5431,2020.0,703.366,False,False,
+exit event,35.595,-79.0492,2012.0,8102.563999999999,True,True,
+exit event,35.3775,-78.0875,2012.0,9594.653,False,True,
+exit event,34.2824,-77.9864,2013.0,10301.853,True,False,
+exit event,34.5889,-78.975,2011.0,6583.514,True,False,
+exit event,35.1897,-81.0122,2020.0,126.90200000000002,False,False,
+exit event,35.1897,-81.0122,2021.0,58.79400000000001,False,False,
+exit event,35.1897,-81.0122,2024.0,15.539,False,False,
+exit event,35.7133,-80.3767,2010.0,-1445.013,False,False,
+exit event,35.7133,-80.3767,2013.0,1412.3950000000002,False,False,
+exit event,35.22,-81.7594,2010.0,22671.184,False,True,
+exit event,36.4862,-79.7208,2011.0,4292.399,False,False,
+exit event,35.36,-80.9742,2012.0,5960.45,True,True,
+exit event,35.36,-80.9742,2013.0,1548.702,False,False,
+exit event,46.8669,-100.8839,2022.0,1459.326,False,False,
+exit event,47.2872,-101.3314,2017.0,2478.993,False,False,
+exit event,38.9917,-84.2981,2009.0,-42755.74599999999,False,False,
+exit event,38.9917,-84.2981,2011.0,2087.4320000000007,False,False,
+exit event,38.9917,-84.2981,2012.0,38934.18,False,False,
+exit event,38.9917,-84.2981,2013.0,34441.36799999999,True,False,
+exit event,38.9917,-84.2981,2014.0,51900.339,True,False,
+exit event,39.1131,-84.8031,2007.0,37334.75,True,True,
+exit event,39.1131,-84.8031,2015.0,18265.446000000004,True,False,
+exit event,41.9086,-80.7697,2015.0,3560.61,False,False,
+exit event,41.5042,-82.05,2017.0,5327.469,False,False,
+exit event,41.5042,-82.05,2022.0,2829.066,False,False,
+exit event,41.6713,-81.4432,2012.0,37249.023,False,False,
+exit event,41.6713,-81.4432,2015.0,22126.169,False,False,
+exit event,41.5356,-81.6419,2015.0,665.376,False,False,
+exit event,40.1842,-81.8811,2005.0,-2291.4979999999923,False,False,
+exit event,40.1842,-81.8811,2012.0,2930.289999999999,False,False,
+exit event,40.1842,-81.8811,2018.0,2155.311,False,False,
+exit event,40.1842,-81.8811,2019.0,3252.4390000000003,False,False,
+exit event,40.1842,-81.8811,2020.0,2266.046,False,False,
+exit event,39.7933,-83.0097,2013.0,66.891,False,False,
+exit event,39.6094,-84.2931,2010.0,147.37,False,False,
+exit event,39.6094,-84.2931,2012.0,648.628,False,False,
+exit event,38.6361,-83.6939,2017.0,6678.574999999999,False,False,
+exit event,38.6361,-83.6939,2018.0,6675.436,False,False,
+exit event,41.1667,-80.75,2011.0,9866.231000000002,False,False,
+exit event,41.1667,-80.75,2012.0,4857.249,False,False,
+exit event,39.9094,-80.7608,2010.0,5988.033,False,False,
+exit event,40.5308,-80.6311,2018.0,1530.071,False,False,
+exit event,40.5308,-80.6311,2019.0,433.2149999999999,False,False,
+exit event,40.5308,-80.6311,2023.0,3137.927,False,False,
+exit event,39.5908,-81.6797,2012.0,71073.27399999999,False,False,
+exit event,39.5908,-81.6797,2014.0,17362.139000000003,False,False,
+exit event,39.5908,-81.6797,2015.0,49575.214,False,False,
+exit event,41.6925,-83.4375,2012.0,8170.645,False,True,
+exit event,39.4099,-84.5544,2008.0,778.1129999999999,False,False,
+exit event,39.4099,-84.5544,2013.0,419.942,False,False,
+exit event,35.7617,-95.2847,2018.0,16806.894,False,True,
+exit event,36.4317,-95.7008,2016.0,11329.417,False,True,
+exit event,40.2525,-79.9183,2011.0,1282.144,False,False,
+exit event,40.2525,-79.9183,2012.0,427.916,False,False,
+exit event,40.91,-75.0789,2013.0,-798.8619999999996,False,False,
+exit event,40.91,-75.0789,2014.0,2102.002,False,False,
+exit event,40.3061,-75.9081,2013.0,1077.677,False,False,
+exit event,40.511,-79.1968,2022.0,3998.143,False,False,
+exit event,40.511,-79.1968,2023.0,4185.72,False,False,
+exit event,41.067,-78.3656,2016.0,14290.888,False,False,
+exit event,40.9378,-80.3681,2016.0,3744.098,False,False,
+exit event,40.796,-75.107,2007.0,15830.531,True,False,
+exit event,41.0714,-76.6672,2024.0,426.83,False,False,
+exit event,40.8361,-76.825,2013.0,1504.844,False,False,
+exit event,40.8361,-76.825,2014.0,594.967,False,False,
+exit event,40.1514,-75.5306,2011.0,2125.257,False,False,
+exit event,39.858,-75.323,2011.0,4807.799,False,False,
+exit event,41.2033,-76.0683,2010.0,2991.3540000000003,False,False,
+exit event,40.9289,-79.4658,2012.0,25738.482000000004,False,False,
+exit event,39.8562,-79.9274,2013.0,3790.599,False,False,
+exit event,40.2207,-79.9682,2013.0,1569.746,False,False,
+exit event,34.4017,-80.1589,2012.0,4514.356,False,False,
+exit event,34.6022,-82.435,2014.0,284.89,False,False,
+exit event,33.0647,-80.6228,2012.0,7842.299,False,False,
+exit event,33.0647,-80.6228,2013.0,16745.652,False,False,
+exit event,34.0533,-81.2178,2016.0,1731.373,False,False,
+exit event,33.435,-81.9111,2012.0,4704.833,False,False,
+exit event,33.8253,-79.0528,2011.0,5596.337,False,False,
+exit event,33.2422,-79.9875,2012.0,6509.176,False,False,
+exit event,35.0742,-90.1439,2018.0,7622.536999999999,True,False,
+exit event,36.0211,-84.1567,2023.0,342.973,False,False,
+exit event,36.3767,-82.9639,2012.0,15207.177,False,True,
+exit event,36.0278,-87.9861,2012.0,24507.596,False,False,
+exit event,36.0278,-87.9861,2013.0,307.6000000000022,False,False,
+exit event,36.0278,-87.9861,2017.0,9187.756,False,False,
+exit event,31.8206,-96.0561,2018.0,47632.453,False,False,
+exit event,39.7272,-110.8644,2015.0,9240.876,False,True,
+exit event,36.9333,-82.1997,2015.0,3211.4300000000003,False,False,
+exit event,37.3704,-80.8639,2015.0,679.659,False,False,
+exit event,38.8203,-77.0411,2012.0,499.415,False,False,
+exit event,37.7089,-78.2878,2013.0,2948.394,False,False,
+exit event,37.3822,-77.3833,2018.0,947.337,False,False,
+exit event,37.3822,-77.3833,2023.0,737.843,False,False,
+exit event,36.7711,-76.3019,2014.0,13243.548,True,False,
+exit event,37.2144,-76.4611,2019.0,3959.047,False,False,
+exit event,46.7559,-122.8578,2020.0,1481.7070000000003,False,False,
+exit event,38.2056,-81.4211,2015.0,10714.504,False,False,
+exit event,38.9669,-81.9231,2010.0,5900.251,False,True,
+exit event,38.9669,-81.9231,2015.0,10649.662,False,False,
+exit event,39.4883,-79.6367,2012.0,6453.397,False,False,
+exit event,39.5314,-80.113,2010.0,143.59699999999998,False,False,
+exit event,39.5314,-80.113,2012.0,41.906,False,False,
+exit event,39.3672,-81.3006,2012.0,1573.503,False,False,
+exit event,39.8464,-80.8189,2013.0,4935.899999999998,False,False,
+exit event,39.8464,-80.8189,2015.0,14780.738,False,False,
+exit event,46.5869,-90.9017,2015.0,-32.76,False,False,
+exit event,43.0792,-89.3739,2011.0,277.441,False,False,
+exit event,42.8457,-87.8294,2024.0,-41.29199999999997,False,False,
+exit event,43.0303,-87.9233,2014.0,2401.782,False,False,
+exit event,43.0303,-87.9233,2015.0,3393.012,False,False,
+exit event,43.715,-87.7094,2013.0,599.25,False,False,
+exit event,43.715,-87.7094,2018.0,4173.281999999999,False,False,
+exit event,42.7225,-91.0085,2015.0,3513.297,False,False,
+exit event,44.5397,-88.0083,2007.0,2422.574999999999,False,False,
+exit event,44.5397,-88.0083,2015.0,1728.971,False,False,
+exit event,44.5397,-88.0083,2018.0,1062.594,False,False,
+exit event,44.8606,-89.6553,2015.0,4183.161,False,False,
+exit event,44.082,-87.6558,2009.0,1112.952,False,False,
+exit event,44.082,-87.6558,2010.0,351.68800000000005,False,False,
+exit event,44.3085,-91.9106,2011.0,3313.588,False,False,
+exit event,44.3085,-91.9106,2014.0,621.592,False,False,
+exit event,43.5592,-91.2333,2021.0,247.375,False,False,
+exit event,42.7083,-90.9853,2010.0,-54.01100000000002,False,False,
+exit event,41.7572,-110.5986,2019.0,2111.576,False,False,
+exit event,42.0317,-84.755,2016.0,398.071,False,False,
+exit event,36.9047,-111.3886,2019.0,5464.562,False,False,
+exit event,40.4663,-89.9841,2019.0,24.691,False,False,
+exit event,38.9361,-88.2778,2016.0,7932.115000000001,False,False,
+exit event,38.8689,-84.2286,2022.0,8719.709,True,False,
+exit event,38.6903,-83.4803,2018.0,6215.428,False,False,
+exit event,33.4124,-85.0345,2022.0,920.977,False,False,
+exit event,30.7261,-91.3669,2015.0,21408.474,True,True,
+exit event,31.2194,-89.3933,2017.0,84.406,False,False,
+exit event,31.2194,-89.3933,2018.0,15.974,False,False,
+exit event,45.8831,-106.614,2020.0,4588.288999999999,False,False,
+exit event,43.3561,-78.6039,2020.0,949.467,False,False,
+exit event,41.2175,-87.0239,2020.0,149.33900000000017,False,False,
+exit event,41.2175,-87.0239,2021.0,204.11299999999997,False,False,
+exit event,47.6788,-104.1569,2021.0,19.165,False,False,
+exit event,45.3792,-93.8958,2023.0,1021.4679999999998,False,False,
+exit event,40.6344,-80.42,2018.0,8392.788,True,False,
+exit event,40.6344,-80.42,2019.0,4426.783,False,False,
+exit event,45.6933,-119.8056,2020.0,3920.597,False,False,
+exit event,32.3558,-81.1683,2019.0,125.373,False,False,
+exit event,30.6167,-96.0778,2018.0,334.962,False,False,
+exit event,37.9053,-87.715,2023.0,4183.835,False,False,
+exit event,33.0583,-94.844,2016.0,174.3279999999977,False,False,
+exit event,32.2597,-94.5703,2024.0,3324.681999999999,False,False,
+exit event,33.0917,-95.0417,2017.0,24958.282,False,True,
+exit event,38.1306,-90.2625,2024.0,2049.0460000000003,False,False,
+exit event,42.5381,-87.9033,2018.0,930.951,False,False,
+exit event,29.3072,-98.3228,2019.0,15363.251,True,False,
+exit event,35.2972,-101.7475,2024.0,10445.849,False,False,
+exit event,33.0583,-83.8072,2021.0,-302.98800000000006,False,False,
+exit event,37.6467,-87.5006,2022.0,2731.31,False,False,
+exit event,30.5642,-97.0639,2018.0,17446.082,False,False,
+exit event,37.915,-87.3328,2024.0,231.26500000000004,False,False,
+exit event,33.3642,-81.03,2019.0,694.9409999999999,False,False,
+exit event,39.3672,-81.5208,2010.0,21166.550000000003,False,False,
+exit event,39.2623,-79.3306,2009.0,995.925,False,False,
+exit event,32.8994,-79.9694,2020.0,0.0,False,False,
+exit event,32.4607,-94.4852,2023.0,1247.038,False,False,
+exit event,41.7378,-108.7875,2023.0,3641.306,False,False,
+exit event,40.5383,-79.7906,2022.0,1727.914,False,False,
+exit event,43.1969,-77.6289,2007.0,0.0,False,False,
+exit event,43.1969,-77.6289,2010.0,0.0,False,False,
+exit event,43.1969,-77.6289,2017.0,0.0,False,False,
+exit event,43.1969,-77.6289,2018.0,0.0,False,False,
+exit event,39.1467,-75.5461,2013.0,-0.369,False,False,
+exit event,39.7914,-75.4081,2022.0,486.055,False,False,
+exit event,36.8703,-76.3519,2015.0,505.176,False,False,
+exit event,47.5314,-90.9111,2015.0,2011.502,False,False,
+exit event,47.5314,-90.9111,2016.0,2646.391,False,False,
+exit event,41.0489,-81.4736,2007.0,0.0,False,False,
+exit event,39.3265,-82.9744,2016.0,0.0,False,False,
+exit event,42.7178,-84.4836,2016.0,0.0,False,False,
+exit event,42.7178,-84.4836,2017.0,0.0,False,False,
+exit event,28.5814,-82.4303,2013.0,-45.671,False,False,
+exit event,40.8092,-76.4539,2024.0,255.856,False,False,
+exit event,37.2939,-77.2697,2019.0,1558.673,False,False,
+exit event,33.9444,-78.0125,2010.0,2204.1330000000003,False,False,
+exit event,36.435,-78.9619,2010.0,-217.75200000000007,False,False,
+exit event,34.6474,-78.6407,2009.0,119.245,False,False,
+exit event,34.59,-78.9968,2015.0,-18.358,False,False,
+exit event,36.0378,-77.7542,2019.0,63.088,False,False,
+exit event,44.0361,-75.7712,2013.0,-258.069,False,False,
+exit event,39.6928,-75.4867,2022.0,477.108,False,False,
+exit event,40.4748,-78.7021,2019.0,2519.396,False,False,
+exit event,30.4219,-81.6079,2016.0,401.835,False,False,
+exit event,41.4282,-72.1005,2011.0,0.0,False,False,
+exit event,40.6558,-80.3556,2013.0,2894.762,False,False,
+exit event,40.6558,-80.3556,2015.0,310.123,False,False,
+exit event,39.5944,-78.7456,2024.0,646.734,False,False,
+exit event,39.6397,-79.9606,2020.0,540.4590000000001,False,False,
+exit event,37.2969,-77.2833,2013.0,-2.045,False,False,
+exit event,37.1183,-79.2726,2013.0,-10.138,False,False,
+exit event,36.6525,-76.9953,2013.0,12.763,False,False,
+exit event,36.2756,-86.6644,2009.0,0.0,False,False,
+exit event,47.286,-91.26,2019.0,1443.591,False,False,
+exit event,39.8466,-88.9261,2021.0,0.0,False,False,
+exit event,38.1366,-81.279,2007.0,0.0,False,False,
+exit event,40.8737,-75.9936,2018.0,181.85,False,False,
+exit event,40.6672,-80.3465,2011.0,1980.581,False,False,
+exit event,38.3688,-81.6786,2012.0,0.0,False,False,
+exit event,43.0804,-79.0082,2007.0,166.23699999999997,False,False,
+exit event,40.4172,-86.9117,2013.0,0.0,False,False,
+exit event,40.4172,-86.9117,2014.0,0.0,False,False,
+exit event,35.535,-82.8411,2015.0,0.0,False,False,
+exit event,39.4086,-84.5622,2012.0,0.0,False,False,
+exit event,36.4769,-77.6414,2016.0,0.0,False,False,
+exit event,39.8717,-76.8664,2016.0,0.0,False,False,
+exit event,39.8717,-76.8664,2017.0,0.0,False,False,
+exit event,39.8439,-75.3575,2019.0,0.0,False,False,
+exit event,37.534,-79.357,2011.0,0.0,False,False,
+exit event,36.5192,-82.535,2014.0,0.0,False,False,
+exit event,36.5192,-82.535,2016.0,0.0,False,False,
+exit event,36.5192,-82.535,2018.0,0.0,False,False,
+exit event,39.7475,-80.8547,2016.0,0.0,False,False,
+exit event,43.0653,-76.2086,2013.0,1912.532,False,False,
+exit event,34.1519,-79.5587,2020.0,0.0,False,False,
+exit event,40.7817,-76.1781,2020.0,510.093,False,False,
+exit event,37.7997,-79.9946,2013.0,0.0,False,False,
+exit event,37.7997,-79.9946,2014.0,0.0,False,False,
+exit event,35.2964,-84.7569,2018.0,0.0,False,False,
+exit event,35.2964,-84.7569,2019.0,0.0,False,False,
+exit event,27.0393,-80.5144,2018.0,75.087,False,False,
+exit event,36.6009,-78.53,2018.0,95.484,False,False,
+exit event,30.5681,-97.0614,2018.0,2452.128,False,False,
+exit event,37.3451,-80.764,2014.0,0.0,False,False,
+exit event,32.4167,-86.4667,2021.0,0.0,False,False,
+exit event,33.8872,-80.6397,2018.0,0.0,False,False,
+exit event,36.6803,-76.9128,2010.0,0.0,False,False,
+exit event,36.4364,-77.6167,2017.0,22.19,False,False,
+exit event,37.4556,-77.4308,2018.0,115.139,False,False,
+exit event,37.4556,-77.4308,2019.0,282.094,False,False,
+exit event,41.1776,-79.4418,2013.0,1085.654,False,False,
+exit event,41.2119,-80.8176,2013.0,0.0,False,False,
+exit event,33.3278,-86.3583,2010.0,0.0,False,False,
+exit event,33.3278,-86.3583,2013.0,0.0,False,False,
+exit event,38.2667,-77.3147,2021.0,44.131,False,False,
+exit event,41.7775,-87.8233,2007.0,0.0,False,False,
+exit event,41.7775,-87.8233,2021.0,0.0,False,False,
+exit event,41.4908,-78.6767,2020.0,0.0,False,False,
+exit event,36.4364,-77.6167,2017.0,7.407,False,False,
+exit event,39.7983,-88.3501,2015.0,0.0,False,False,
+exit event,39.1756,-84.5022,2016.0,0.0,False,False,
+exit event,39.1792,-84.5053,2011.0,0.0,False,False,
+exit event,39.8242,-84.1747,2020.0,0.0,False,False,
+exit event,34.6339,-87.0244,2016.0,0.0,False,False,
+exit event,34.6339,-87.0244,2021.0,0.0,False,False,
+exit event,38.3845,-81.7764,2016.0,0.0,False,False,
+exit event,35.9822,-84.2614,2008.0,0.0,False,False,
+exit event,35.9822,-84.2614,2009.0,0.0,False,False,
+exit event,34.2337,-80.658,2011.0,0.0,False,False,
+exit event,34.387,-80.0663,2013.0,0.0,False,False,
+exit event,35.7433,-84.3208,2016.0,0.0,False,False,
+exit event,41.6552,-86.2962,2012.0,0.0,False,False,
+PM2.5 monitor,32.42597,-86.285247,,,,,other
+PM2.5 monitor,34.630956,-87.052775,,,,,other
+PM2.5 monitor,34.530717,-86.967536,,,,,other
+PM2.5 monitor,32.472136,-85.005028,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.312927,-86.821104,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,32.36401,-88.201865,,,,,other
+PM2.5 monitor,33.27947,-86.349438,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.217062,-87.538895,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.189931,-87.484189,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.832885,-87.272505,,,,,other
+PM2.5 monitor,33.284928,-85.803608,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.497478,-87.880258,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.762619,-87.638097,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,34.288567,-85.969858,,,,,other
+PM2.5 monitor,31.106567,-87.071081,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.98821,-85.992556,,,,,other
+PM2.5 monitor,31.228787,-85.375489,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.224783,-85.390789,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.331111,-87.003611,,,,,other
+PM2.5 monitor,33.459722,-87.305556,,,,,other
+PM2.5 monitor,33.545278,-86.549167,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.499722,-86.924167,,,,,other
+PM2.5 monitor,33.386389,-86.816667,,,,,other
+PM2.5 monitor,33.553056,-86.815,,,,,other
+PM2.5 monitor,33.704722,-86.669167,,,,,other
+PM2.5 monitor,33.801667,-86.9425,,,,,other
+PM2.5 monitor,34.68547,-86.58816,,,,,other
+PM2.5 monitor,30.76652,-88.075727,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,30.474305,-88.141022,,,,,other
+PM2.5 monitor,30.770181,-88.087761,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,58.358875,-134.510427,,,,,background (over 50 km from coal)
+PM2.5 monitor,58.365508,-134.516499,,,,,background (over 50 km from coal)
+PM2.5 monitor,58.388497,-134.567237,,,,,background (over 50 km from coal)
+PM2.5 monitor,55.351043,-131.650019,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.532508,-150.252229,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.534163,-149.031655,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.205861,-149.824602,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.181083,-149.817389,,,,,background (over 50 km from coal)
+PM2.5 monitor,59.46008,-135.31053,,,,,background (over 50 km from coal)
+PM2.5 monitor,63.7232,-148.9676,,,,,other
+PM2.5 monitor,64.840672,-147.722461,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.41018,-111.86536,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.48378,-112.14256,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.40314,-112.07526,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.488131,-111.855443,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.39166,-111.926388,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.476608,-112.108597,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.476111,-112.199722,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.503833,-112.095767,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.540017,-113.410782,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.29515,-110.9823,,,,,other
+PM2.5 monitor,32.322661,-111.038389,,,,,other
+PM2.5 monitor,32.877583,-111.752222,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.421194,-111.503222,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.01053,-111.97205,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.081704,-111.752943,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.337204,-110.936718,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.3492,-109.539683,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.206111,-111.652777,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.229733,-111.3295,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.499264,-91.574296,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.519819,-91.558461,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.518515,-91.55896,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.529766,-90.586049,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.583699,-94.226234,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.259775,-93.10005,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.729603,-92.243587,,,,,other
+PM2.5 monitor,34.676268,-92.337164,,,,,other
+PM2.5 monitor,34.681343,-92.328697,,,,,other
+PM2.5 monitor,34.733425,-92.24126,,,,,other
+PM2.5 monitor,34.756189,-92.281296,,,,,other
+PM2.5 monitor,35.389672,-94.424288,,,,,other
+PM2.5 monitor,33.214019,-92.668767,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.214464,-92.654228,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.220563,-92.672263,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.052024,-94.162704,,,,,other
+PM2.5 monitor,36.045831,-94.169183,,,,,other
+PM2.5 monitor,35.24894,-91.715596,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.1304,-91.962076,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.133211,-91.961255,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.139471,-91.939208,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.838686,-90.708724,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.147591,-90.176483,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.197288,-90.193141,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.105193,-92.427859,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.510367,-93.054346,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.469441,-93.000178,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.637283,-91.188906,,,,,other
+PM2.5 monitor,34.220098,-92.000973,,,,,other
+PM2.5 monitor,34.190931,-92.058531,,,,,other
+PM2.5 monitor,36.084239,-92.58683,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.427625,-94.041021,,,,,other
+PM2.5 monitor,35.92924,-89.900919,,,,,other
+PM2.5 monitor,37.535833,-121.961823,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.687526,-121.784217,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.138773,-121.618549,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.332179,-119.291228,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.18919,-121.99887,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.276316,-118.683685,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.25239,-119.143182,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.210169,-118.870509,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.404281,-118.80998,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.66121,-121.73269,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.936013,-122.026154,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.944979,-119.970609,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.81161,-120.033084,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.819449,-119.716433,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.72639,-119.733,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.781333,-119.77319,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.80178,-124.1621,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.79222,-115.56306,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.978379,-115.534156,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.67618,-115.48307,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.97833,-115.53917,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.487823,-117.871036,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.385574,-119.015009,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.050551,-118.147294,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.356615,-119.062613,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.62109,-117.67296,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.324636,-118.997627,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.102244,-119.56565,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.0327,-122.92229,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.17605,-118.31712,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.06659,-118.22688,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.19925,-118.53276,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.92899,-118.21071,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.01407,-118.06056,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.01029,-118.0685,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.1365,-117.92391,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.1326,-118.1272,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.82376,-118.18921,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.79236,-118.17533,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.689985,-118.13285,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.669739,-118.130511,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.15047,-123.20655,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.30832,-120.480456,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.483225,-120.540234,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.64571,-118.96652,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.694261,-121.623271,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.32783,-120.184592,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.233477,-121.055608,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.821353,-117.91427,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.63003,-117.67593,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.83062,-117.93845,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.74643,-121.26498,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.939567,-120.944376,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.808333,-120.471667,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.94603,-117.40063,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.70853,-116.21537,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.85275,-116.54101,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.99958,-117.41601,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.99636,-117.4924,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.56844,-121.49311,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.556326,-121.458499,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.613779,-121.368014,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.757371,-121.843286,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.10002,-117.49201,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.037234,-117.690889,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.510961,-117.32554,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.26464,-116.86147,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.106678,-117.274063,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.631242,-117.059088,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.127769,-117.075086,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.709224,-117.154841,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.701492,-117.149653,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.725226,-116.365203,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.791194,-116.942092,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.836461,-117.128752,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.765946,-122.399044,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.950741,-121.268523,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.283864,-120.655171,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.25651,-120.6693,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.49158,-120.66804,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.482934,-122.20337,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.421386,-119.702079,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.942872,-120.435611,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.427775,-119.691218,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.3062,-121.84885,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.339666,-121.888575,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.348497,-121.894898,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.98332,-121.98822,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.6304,-122.4031,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.69184,-122.40179,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.55013,-122.38092,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.20185,-120.680277,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.726892,-122.633579,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.102507,-122.237976,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.443503,-122.710169,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.642165,-120.994212,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.827594,-104.937668,,,,,other
+PM2.5 monitor,39.826007,-104.937438,,,,,other
+PM2.5 monitor,38.263058,-104.612133,,,,,other
+PM2.5 monitor,40.485201,-106.831625,,,,,other
+PM2.5 monitor,37.937872,-107.813061,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.414877,-104.70693,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.209387,-104.82405,,,,,other
+PM2.5 monitor,40.021097,-105.263382,,,,,other
+PM2.5 monitor,40.164576,-105.100856,,,,,other
+PM2.5 monitor,38.739213,-108.07307,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.738578,-104.939925,,,,,other
+PM2.5 monitor,39.740342,-104.991037,,,,,other
+PM2.5 monitor,39.751184,-104.987625,,,,,other
+PM2.5 monitor,39.781083,-104.95665,,,,,other
+PM2.5 monitor,39.519667,-104.767157,,,,,other
+PM2.5 monitor,39.534488,-105.070358,,,,,other
+PM2.5 monitor,39.231384,-104.63477,,,,,other
+PM2.5 monitor,38.828042,-104.827739,,,,,other
+PM2.5 monitor,38.895975,-104.761296,,,,,other
+PM2.5 monitor,39.604399,-105.019526,,,,,other
+PM2.5 monitor,38.87805,-106.974698,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.900392,-106.966104,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.267684,-107.874589,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.571288,-105.079693,,,,,other
+PM2.5 monitor,37.26842,-107.009659,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.266434,-107.012731,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.063798,-108.561173,,,,,other
+PM2.5 monitor,39.0916,-108.563775,,,,,other
+PM2.5 monitor,41.170833,-73.194722,,,,,other
+PM2.5 monitor,41.399167,-73.443056,,,,,other
+PM2.5 monitor,41.183708,-73.189835,,,,,other
+PM2.5 monitor,41.063153,-73.528456,,,,,other
+PM2.5 monitor,41.1125,-73.407222,,,,,other
+PM2.5 monitor,41.118333,-73.336667,,,,,other
+PM2.5 monitor,41.524167,-72.076667,,,,,other
+PM2.5 monitor,41.784722,-72.631667,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.760933,-72.67037,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.64486,-73.07908,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.821342,-73.297257,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.310833,-72.916944,,,,,other
+PM2.5 monitor,41.293986,-72.900935,,,,,other
+PM2.5 monitor,41.331389,-72.919722,,,,,other
+PM2.5 monitor,41.550556,-73.043611,,,,,other
+PM2.5 monitor,41.291111,-72.894167,,,,,other
+PM2.5 monitor,41.3014,-72.902871,,,,,other
+PM2.5 monitor,41.277875,-72.963992,,,,,other
+PM2.5 monitor,41.341111,-72.921389,,,,,other
+PM2.5 monitor,32.412811,-86.263394,,,,,other
+PM2.5 monitor,32.42597,-86.285247,,,,,other
+PM2.5 monitor,34.530717,-86.967536,,,,,other
+PM2.5 monitor,32.472136,-85.005028,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.437028,-84.999653,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.312927,-86.821104,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,32.362606,-88.277992,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.27947,-86.349438,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.095379,-87.481507,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.189931,-87.484189,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.832885,-87.272505,,,,,other
+PM2.5 monitor,33.284928,-85.803608,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.497478,-87.880258,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.762619,-87.638097,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,34.288567,-85.969858,,,,,other
+PM2.5 monitor,31.106567,-87.071081,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.98821,-85.992556,,,,,other
+PM2.5 monitor,31.224783,-85.390789,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.331111,-87.003611,,,,,other
+PM2.5 monitor,33.459722,-87.305556,,,,,other
+PM2.5 monitor,33.545278,-86.549167,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.499722,-86.924167,,,,,other
+PM2.5 monitor,33.386389,-86.816667,,,,,other
+PM2.5 monitor,33.521427,-86.844112,,,,,other
+PM2.5 monitor,33.553056,-86.815,,,,,other
+PM2.5 monitor,33.704722,-86.669167,,,,,other
+PM2.5 monitor,33.801667,-86.9425,,,,,other
+PM2.5 monitor,33.578333,-86.773889,,,,,other
+PM2.5 monitor,33.565278,-86.796389,,,,,other
+PM2.5 monitor,34.68547,-86.58816,,,,,other
+PM2.5 monitor,30.474305,-88.141022,,,,,other
+PM2.5 monitor,30.770181,-88.087761,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.986681,-75.556818,,,,,other
+PM2.5 monitor,39.15564,-75.51821,,,,,other
+PM2.5 monitor,39.761273,-75.492047,,,,,other
+PM2.5 monitor,39.551279,-75.732015,,,,,other
+PM2.5 monitor,39.577647,-75.603659,,,,,other
+PM2.5 monitor,39.691872,-75.761766,,,,,other
+PM2.5 monitor,39.739441,-75.557534,,,,,other
+PM2.5 monitor,38.65392,-75.610605,,,,,other
+PM2.5 monitor,38.895572,-76.958072,,,,,other
+PM2.5 monitor,38.876255,-77.034059,,,,,other
+PM2.5 monitor,38.921847,-77.013178,,,,,other
+PM2.5 monitor,38.89477,-76.953426,,,,,other
+PM2.5 monitor,38.875161,-77.012816,,,,,other
+PM2.5 monitor,38.818724,-77.010254,,,,,other
+PM2.5 monitor,29.706111,-82.387778,,,,,other
+PM2.5 monitor,29.658578,-82.408162,,,,,other
+PM2.5 monitor,29.566112,-82.26608,,,,,other
+PM2.5 monitor,28.000297,-82.776213,,,,,other
+PM2.5 monitor,27.986283,-82.78215,,,,,other
+PM2.5 monitor,27.791304,-82.739593,,,,,other
+PM2.5 monitor,27.75704,-82.6618,,,,,other
+PM2.5 monitor,27.971283,-82.73666,,,,,other
+PM2.5 monitor,28.090074,-82.700636,,,,,other
+PM2.5 monitor,28.028889,-81.972222,,,,,other
+PM2.5 monitor,26.083143,-80.237586,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.291088,-80.096353,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.217582,-80.127545,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.001202,-80.160324,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.073536,-80.33845,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.053889,-80.256944,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.132677,-80.169817,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.249231,-80.162789,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.294167,-80.176389,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.449206,-80.408104,,,,,other
+PM2.5 monitor,30.408199,-86.889961,,,,,other
+PM2.5 monitor,27.290427,-82.507108,,,,,background (over 50 km from coal)
+PM2.5 monitor,28.746111,-81.310556,,,,,other
+PM2.5 monitor,29.206667,-81.0525,,,,,background (over 50 km from coal)
+PM2.5 monitor,28.980556,-82.644381,,,,,other
+PM2.5 monitor,30.262778,-81.606833,,,,,other
+PM2.5 monitor,30.356339,-81.635396,,,,,other
+PM2.5 monitor,30.135797,-81.633981,,,,,other
+PM2.5 monitor,30.354722,-81.547778,,,,,other
+PM2.5 monitor,30.36805,-87.270967,,,,,other
+PM2.5 monitor,30.437,-87.256,,,,,other
+PM2.5 monitor,30.55,-87.376,,,,,other
+PM2.5 monitor,30.4678,-87.3316,,,,,other
+PM2.5 monitor,30.4641,-87.3287,,,,,other
+PM2.5 monitor,30.4594,-87.3285,,,,,other
+PM2.5 monitor,30.4589,-87.334,,,,,other
+PM2.5 monitor,30.525367,-87.20355,,,,,other
+PM2.5 monitor,30.144369,-85.614371,,,,,other
+PM2.5 monitor,28.050296,-82.377871,,,,,other
+PM2.5 monitor,27.95555,-82.46714,,,,,other
+PM2.5 monitor,27.95555,-82.46958,,,,,other
+PM2.5 monitor,27.932244,-82.50954,,,,,other
+PM2.5 monitor,27.965744,-82.230596,,,,,other
+PM2.5 monitor,26.602016,-81.877908,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.43973,-84.346302,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.480873,-82.618709,,,,,other
+PM2.5 monitor,29.171283,-82.094767,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.172458,-80.240689,,,,,other
+PM2.5 monitor,25.794222,-80.215556,,,,,background (over 50 km from coal)
+PM2.5 monitor,25.941944,-80.326389,,,,,background (over 50 km from coal)
+PM2.5 monitor,25.471944,-80.482778,,,,,background (over 50 km from coal)
+PM2.5 monitor,25.47823,-80.483739,,,,,background (over 50 km from coal)
+PM2.5 monitor,28.053611,-80.628611,,,,,background (over 50 km from coal)
+PM2.5 monitor,28.551112,-81.345347,,,,,other
+PM2.5 monitor,28.446308,-81.417439,,,,,other
+PM2.5 monitor,28.595026,-81.363414,,,,,other
+PM2.5 monitor,28.5346,-81.384411,,,,,other
+PM2.5 monitor,28.347509,-81.636464,,,,,other
+PM2.5 monitor,26.454796,-80.096709,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.457068,-80.092872,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.68737,-80.220311,,,,,other
+PM2.5 monitor,26.724168,-80.663341,,,,,other
+PM2.5 monitor,26.730833,-80.233889,,,,,other
+PM2.5 monitor,34.2605,-85.3232,,,,,other
+PM2.5 monitor,34.263198,-85.304826,,,,,other
+PM2.5 monitor,33.616499,-84.437427,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.819564,-84.389708,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.802241,-84.435618,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.77933,-84.39576,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.7784,-84.3914,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,31.169805,-81.495035,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.9632,-84.0691,,,,,other
+PM2.5 monitor,34.2993,-83.8134,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.6056,-83.5978,,,,,other
+PM2.5 monitor,30.8486,-83.2933,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.805264,-83.543493,,,,,other
+PM2.5 monitor,32.777465,-83.640996,,,,,other
+PM2.5 monitor,32.4842,-84.9789,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.4297,-84.9316,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.4274,-84.9457,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.521272,-84.944635,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.9285,-85.04534,,,,,other
+PM2.5 monitor,33.469164,-81.991426,,,,,other
+PM2.5 monitor,33.4339,-82.0224,,,,,other
+PM2.5 monitor,34.9788,-85.3009,,,,,other
+PM2.5 monitor,34.9784,-85.2943,,,,,other
+PM2.5 monitor,32.967359,-82.806871,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.881829,-83.333775,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,32.090779,-81.130222,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,32.092957,-81.14399,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,32.110679,-81.161823,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.945948,-83.372102,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.918137,-83.344385,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.610845,-84.390717,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,34.015436,-84.607423,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.89932,-84.661514,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,31.513097,-82.749971,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.6878,-84.2905,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.901389,-84.279903,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,31.5776,-84.0998,,,,,other
+PM2.5 monitor,19.717562,-155.11053,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.509778,-155.913417,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.2039,-155.480183,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.569833,-155.08065,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.117561,-155.778136,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.977467,-155.798067,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.555444,-155.102028,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.611914,-155.055037,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.063186,-155.58676,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.442777,-155.88575,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.060655,-155.579159,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.618158,-155.971242,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.4308,-155.2578,,,,,background (over 50 km from coal)
+PM2.5 monitor,19.420506,-155.287853,,,,,background (over 50 km from coal)
+PM2.5 monitor,21.323745,-158.088613,,,,,background (over 50 km from coal)
+PM2.5 monitor,21.30758,-157.85542,,,,,background (over 50 km from coal)
+PM2.5 monitor,21.303382,-157.871171,,,,,background (over 50 km from coal)
+PM2.5 monitor,21.392833,-157.969126,,,,,background (over 50 km from coal)
+PM2.5 monitor,21.949599,-159.36624,,,,,background (over 50 km from coal)
+PM2.5 monitor,20.902031,-156.370344,,,,,background (over 50 km from coal)
+PM2.5 monitor,20.869627,-156.493626,,,,,background (over 50 km from coal)
+PM2.5 monitor,20.780997,-156.446373,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.600699,-116.347853,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.636111,-116.270278,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.577603,-116.178156,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.643055,-116.265718,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.82291,-115.8395,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.104498,-115.972386,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.274167,-116.550833,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.270633,-116.567724,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.2675,-116.572222,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.499358,-112.014971,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.4647,-112.04645,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.518267,-112.020708,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.705486,-116.370001,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.59946,-116.52924,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.58031,-116.562676,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.562401,-116.563232,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.5625,-116.563611,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.787147,-116.959578,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.661298,-111.591443,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.013333,-111.809167,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.082222,-111.864167,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.856442,-116.515456,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.931274,-116.116255,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.2094,-116.0275,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.876725,-112.460347,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.796378,-112.25892,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.978248,-112.455813,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.925556,-112.478889,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.68,-114.2525,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.721597,-116.92615,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.682315,-116.76553,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.72182,-116.960177,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.181897,-113.890285,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.408352,-116.992533,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.417778,-117.018611,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.9125,-112.535556,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.536389,-116.236667,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.564008,-114.447071,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.145572,-115.0145,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.899213,-116.094873,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.316577,-116.571281,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.338605,-116.885623,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.93301,-91.404237,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.915409,-91.335868,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.221442,-88.242207,,,,,other
+PM2.5 monitor,40.515314,-88.995909,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.518735,-88.996896,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.866834,-88.925594,,,,,other
+PM2.5 monitor,38.704534,-90.139675,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.901362,-90.146308,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.903085,-90.143168,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.699565,-90.143529,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.700632,-90.144763,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.860669,-90.105851,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.697007,-89.584737,,,,,other
+PM2.5 monitor,38.176278,-89.788459,,,,,other
+PM2.5 monitor,41.511978,-90.514301,,,,,other
+PM2.5 monitor,41.514727,-90.51735,,,,,other
+PM2.5 monitor,38.612034,-90.160477,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.529631,-89.99285,,,,,other
+PM2.5 monitor,38.612034,-90.160477,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.831921,-89.644164,,,,,other
+PM2.5 monitor,40.05278,-88.37251,,,,,other
+PM2.5 monitor,40.123796,-88.229531,,,,,other
+PM2.5 monitor,40.123886,-88.240553,,,,,other
+PM2.5 monitor,41.526885,-88.116474,,,,,other
+PM2.5 monitor,41.221537,-88.190967,,,,,other
+PM2.5 monitor,42.267242,-89.08955,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.267,-89.08917,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.263081,-89.092767,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.670992,-87.732457,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.80118,-87.832349,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.57862,-87.557406,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.834276,-87.623851,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.662109,-87.696467,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.687165,-87.539315,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.965193,-87.876265,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.782766,-87.805377,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.027807,-87.905344,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.060285,-87.863225,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.139996,-87.799227,,,,,other
+PM2.5 monitor,41.70757,-87.568574,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.965485,-87.749928,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.912739,-87.722673,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.864426,-87.748902,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.7514,-87.713488,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.771071,-88.152534,,,,,other
+PM2.5 monitor,38.082155,-88.624943,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.110539,-90.32408,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.101439,-90.344494,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.021314,-88.282985,,,,,other
+PM2.5 monitor,42.050403,-88.280015,,,,,other
+PM2.5 monitor,41.784717,-88.329374,,,,,other
+PM2.5 monitor,42.465964,-87.809624,,,,,other
+PM2.5 monitor,41.293015,-89.049425,,,,,other
+PM2.5 monitor,39.159383,-86.504762,,,,,other
+PM2.5 monitor,39.98826,-86.83096,,,,,other
+PM2.5 monitor,41.631427,-87.086977,,,,,other
+PM2.5 monitor,41.6175,-87.199167,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.693659,-86.236673,,,,,other
+PM2.5 monitor,41.66346,-86.207826,,,,,other
+PM2.5 monitor,41.69666,-86.214722,,,,,other
+PM2.5 monitor,41.694492,-86.287508,,,,,other
+PM2.5 monitor,38.17013,-86.987233,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.167523,-86.983214,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.044992,-87.258969,,,,,other
+PM2.5 monitor,40.425591,-86.879453,,,,,other
+PM2.5 monitor,40.431667,-86.8525,,,,,other
+PM2.5 monitor,38.021727,-87.569458,,,,,other
+PM2.5 monitor,37.974436,-87.532289,,,,,other
+PM2.5 monitor,37.975248,-87.56783,,,,,other
+PM2.5 monitor,38.013333,-87.577222,,,,,other
+PM2.5 monitor,37.974465,-87.55802,,,,,other
+PM2.5 monitor,37.988682,-87.531381,,,,,other
+PM2.5 monitor,37.971727,-87.567236,,,,,other
+PM2.5 monitor,39.485987,-87.401312,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.456238,-87.370553,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.169646,-85.629292,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.288191,-85.741337,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.270903,-85.74024,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.277719,-85.740111,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.393822,-85.664118,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.050604,-85.149693,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.081864,-85.088313,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.094965,-85.101816,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.203338,-85.387819,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.391799,-86.929668,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.369436,-86.959031,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.404778,-86.928322,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.667827,-85.969444,,,,,other
+PM2.5 monitor,41.657155,-85.968446,,,,,other
+PM2.5 monitor,38.30703,-85.832974,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.317813,-85.833322,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.237457,-85.891332,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.322931,-87.318789,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.985477,-86.990419,,,,,other
+PM2.5 monitor,39.960884,-85.939546,,,,,other
+PM2.5 monitor,39.928804,-86.078775,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.009544,-85.52347,,,,,other
+PM2.5 monitor,40.485479,-86.132879,,,,,other
+PM2.5 monitor,40.481347,-86.109688,,,,,other
+PM2.5 monitor,38.740882,-87.484733,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.588925,-87.407817,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.600314,-87.33476,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.586386,-87.475543,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.678349,-87.508345,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.606662,-87.304943,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.573282,-87.406579,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.546593,-87.426481,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.598473,-87.342947,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.653501,-87.435561,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.594427,-87.495044,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.635952,-87.442017,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.641361,-87.487528,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.707212,-86.891216,,,,,other
+PM2.5 monitor,41.602265,-86.730301,,,,,other
+PM2.5 monitor,40.125703,-85.652184,,,,,other
+PM2.5 monitor,40.111975,-85.679952,,,,,other
+PM2.5 monitor,39.6463,-86.248773,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.744993,-86.166464,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.76048,-86.108833,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.810833,-86.114444,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.89365,-86.04054,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.788903,-86.214628,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.774979,-86.12202,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.758855,-86.115415,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.787933,-86.13088,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.657232,-91.503478,,,,,other
+PM2.5 monitor,40.400959,-91.391012,,,,,other
+PM2.5 monitor,41.97028,-91.620178,,,,,other
+PM2.5 monitor,42.00508,-91.6793,,,,,other
+PM2.5 monitor,41.97677,-91.68766,,,,,other
+PM2.5 monitor,41.98088,-91.65391,,,,,other
+PM2.5 monitor,42.493042,-92.344074,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.501543,-92.316017,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.969112,-95.044951,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.400968,-91.067957,,,,,other
+PM2.5 monitor,41.419429,-91.070975,,,,,other
+PM2.5 monitor,41.414388,-91.062605,,,,,other
+PM2.5 monitor,41.4069,-91.0616,,,,,other
+PM2.5 monitor,43.123704,-94.693518,,,,,other
+PM2.5 monitor,41.599751,-93.599504,,,,,other
+PM2.5 monitor,41.603517,-93.7479,,,,,other
+PM2.5 monitor,41.664711,-93.614385,,,,,other
+PM2.5 monitor,41.603159,-93.643118,,,,,other
+PM2.5 monitor,41.667032,-93.599221,,,,,other
+PM2.5 monitor,41.583183,-93.58385,,,,,other
+PM2.5 monitor,41.264171,-95.896124,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.530011,-90.587611,,,,,other
+PM2.5 monitor,41.550005,-90.600115,,,,,other
+PM2.5 monitor,41.517772,-90.618755,,,,,other
+PM2.5 monitor,41.512077,-90.624044,,,,,other
+PM2.5 monitor,42.041375,-93.614107,,,,,other
+PM2.5 monitor,42.743036,-92.513241,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.987306,-92.65225,,,,,other
+PM2.5 monitor,40.689196,-91.994618,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.695078,-92.006318,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.504804,-94.177399,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.517968,-96.387903,,,,,other
+PM2.5 monitor,42.522355,-96.40021,,,,,other
+PM2.5 monitor,42.499844,-96.394755,,,,,other
+PM2.5 monitor,42.695391,-93.655976,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.161628,-93.208537,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.158561,-93.203005,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.823283,-90.211982,,,,,other
+PM2.5 monitor,41.874999,-90.177574,,,,,other
+PM2.5 monitor,42.600834,-91.538493,,,,,other
+PM2.5 monitor,43.397459,-94.817485,,,,,other
+PM2.5 monitor,58.388497,-134.567237,,,,,background (over 50 km from coal)
+PM2.5 monitor,60.489167,-151.0693,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.52275,-149.083639,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.598898,-149.10622,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.598796,-149.455255,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.534163,-149.031655,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.3267,-149.569707,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.205861,-149.824602,,,,,background (over 50 km from coal)
+PM2.5 monitor,61.215027,-149.903111,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.840672,-147.722461,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.846506,-147.692461,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.752336,-147.347208,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.84569,-147.727413,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.762641,-147.310279,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.759289,-147.372278,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.84593,-147.69327,,,,,background (over 50 km from coal)
+PM2.5 monitor,64.83913,-147.872,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.135882,-94.731988,,,,,other
+PM2.5 monitor,37.67696,-95.47594,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.702066,-97.314847,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.747085,-97.316912,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.659334,-97.297714,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.651114,-97.362212,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.04,-95.691927,,,,,other
+PM2.5 monitor,39.02139,-95.748594,,,,,other
+PM2.5 monitor,39.032501,-95.701371,,,,,other
+PM2.5 monitor,39.024265,-95.711275,,,,,other
+PM2.5 monitor,39.342801,-101.702996,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.47689,-97.366399,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.770081,-99.763424,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.117219,-94.635605,,,,,other
+PM2.5 monitor,39.046314,-94.694816,,,,,other
+PM2.5 monitor,37.775303,-100.03544,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.838575,-94.746424,,,,,other
+PM2.5 monitor,38.974457,-94.687013,,,,,other
+PM2.5 monitor,38.903618,-94.706904,,,,,other
+PM2.5 monitor,38.863063,-94.769127,,,,,other
+PM2.5 monitor,37.8712,-87.46375,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.865043,-87.557513,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.23158,-85.82678,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.23319,-85.81566,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.19113,-85.77935,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.24024,-85.73195,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.06091,-85.89804,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.22876,-85.65452,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.1936,-85.7119,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.182435,-85.574361,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.89147,-84.58825,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.0725,-84.525,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.087311,-84.063264,,,,,other
+PM2.5 monitor,36.60843,-83.73694,,,,,other
+PM2.5 monitor,37.06636,-88.63774,,,,,other
+PM2.5 monitor,37.05822,-88.57251,,,,,other
+PM2.5 monitor,37.08727,-88.60801,,,,,other
+PM2.5 monitor,37.738458,-84.284952,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.319769,-86.956091,,,,,other
+PM2.5 monitor,38.45934,-82.64041,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.28329,-83.20932,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.4826,-82.53532,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.09798,-84.61152,,,,,other
+PM2.5 monitor,36.993375,-86.418323,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.035438,-86.250628,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.04926,-86.21487,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.98629,-85.71192,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.065617,-84.451885,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.021881,-84.47445,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.23887,-82.9881,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,36.91171,-87.323337,,,,,other
+PM2.5 monitor,37.057818,-87.649809,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.741159,-87.118053,,,,,other
+PM2.5 monitor,37.771671,-87.055819,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.780776,-87.075307,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.13179,-86.142953,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.06503,-84.49761,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.038966,-84.507439,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.219433,-84.83845,,,,,other
+PM2.5 monitor,37.705612,-85.852629,,,,,other
+PM2.5 monitor,37.714513,-85.878227,,,,,other
+PM2.5 monitor,30.31445,-89.81415,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.26588,-89.76997,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.503287,-90.377212,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.679301,-90.779731,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.500642,-91.213556,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,32.478486,-93.766012,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.472659,-93.777984,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.17735,-93.214668,,,,,other
+PM2.5 monitor,30.262347,-93.284906,,,,,other
+PM2.5 monitor,30.227798,-93.579965,,,,,other
+PM2.5 monitor,31.568222,-91.45845,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.574402,-91.455353,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.593978,-91.251943,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,30.491857,-91.150107,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,30.461981,-91.179219,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,30.203984,-91.125925,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.221255,-91.315418,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.041238,-90.272826,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.900314,-90.109836,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.020892,-90.123099,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.999264,-90.211619,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.9198,-90.231783,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.217701,-92.051511,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.275033,-92.01732,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.22611,-92.042908,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.955704,-90.121733,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.993519,-90.10155,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.996013,-90.11819,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.016905,-89.927185,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.032329,-90.045465,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.16635,-89.737333,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.0655,-89.804767,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.96249,-90.05689,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.509959,-92.046196,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.88546,-89.94952,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.289627,-92.480971,,,,,other
+PM2.5 monitor,31.177824,-92.410746,,,,,other
+PM2.5 monitor,29.939614,-89.923883,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.943164,-89.97625,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.971443,-89.998605,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.933261,-90.359524,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.089406,-70.214219,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.312319,-69.786717,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.551419,-70.546319,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.817398,-68.772762,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.79886,-68.769675,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.963894,-67.061325,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.698422,-68.038403,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.682299,-68.016195,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.355332,-68.321106,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.677994,-70.256178,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.660246,-70.268965,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.669338,-70.154046,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.37705,-68.2609,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.702982,-75.864771,,,,,other
+PM2.5 monitor,38.587525,-76.141006,,,,,other
+PM2.5 monitor,39.70595,-79.012,,,,,other
+PM2.5 monitor,39.410191,-76.296946,,,,,other
+PM2.5 monitor,39.14313,-76.84611,,,,,other
+PM2.5 monitor,39.305021,-75.797317,,,,,other
+PM2.5 monitor,39.169533,-76.627933,,,,,other
+PM2.5 monitor,38.9025,-76.653056,,,,,other
+PM2.5 monitor,39.101111,-76.729444,,,,,other
+PM2.5 monitor,39.158911,-76.511025,,,,,other
+PM2.5 monitor,39.114313,-77.106876,,,,,other
+PM2.5 monitor,38.939722,-76.935,,,,,other
+PM2.5 monitor,39.02,-76.827778,,,,,other
+PM2.5 monitor,38.94121,-76.93219,,,,,other
+PM2.5 monitor,39.055277,-76.878333,,,,,other
+PM2.5 monitor,38.851667,-76.932778,,,,,other
+PM2.5 monitor,38.81194,-76.74417,,,,,other
+PM2.5 monitor,39.564178,-77.720244,,,,,other
+PM2.5 monitor,39.460478,-76.633543,,,,,other
+PM2.5 monitor,39.310833,-76.474444,,,,,other
+PM2.5 monitor,39.232778,-76.579722,,,,,other
+PM2.5 monitor,39.297733,-76.604603,,,,,other
+PM2.5 monitor,39.261667,-76.6375,,,,,other
+PM2.5 monitor,39.274551,-76.543297,,,,,other
+PM2.5 monitor,39.33746,-76.58905,,,,,other
+PM2.5 monitor,39.340556,-76.582222,,,,,other
+PM2.5 monitor,39.34465,-76.68538,,,,,other
+PM2.5 monitor,39.28777,-76.546861,,,,,other
+PM2.5 monitor,42.605816,-72.596689,,,,,other
+PM2.5 monitor,42.108992,-72.590803,,,,,other
+PM2.5 monitor,42.120229,-72.584503,,,,,other
+PM2.5 monitor,42.10065,-72.5912,,,,,other
+PM2.5 monitor,42.105792,-72.597133,,,,,other
+PM2.5 monitor,42.19438,-72.555112,,,,,other
+PM2.5 monitor,42.298493,-72.334079,,,,,other
+PM2.5 monitor,42.612085,-71.306986,,,,,other
+PM2.5 monitor,42.26381,-71.405658,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.413574,-71.482775,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.647591,-71.311449,,,,,other
+PM2.5 monitor,42.62668,-71.362068,,,,,other
+PM2.5 monitor,42.245865,-70.962766,,,,,other
+PM2.5 monitor,42.241229,-70.963346,,,,,other
+PM2.5 monitor,42.211774,-71.11397,,,,,other
+PM2.5 monitor,42.274821,-71.031994,,,,,other
+PM2.5 monitor,42.081936,-71.014739,,,,,other
+PM2.5 monitor,42.065106,-71.012129,,,,,other
+PM2.5 monitor,42.387222,-71.026111,,,,,other
+PM2.5 monitor,42.348873,-71.097163,,,,,other
+PM2.5 monitor,42.372122,-71.061741,,,,,other
+PM2.5 monitor,42.3295,-71.0826,,,,,other
+PM2.5 monitor,42.3631,-71.0543,,,,,other
+PM2.5 monitor,42.325186,-71.056061,,,,,other
+PM2.5 monitor,42.349954,-71.059194,,,,,other
+PM2.5 monitor,42.260102,-71.798375,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.267315,-71.798405,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.595089,-71.788685,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.263955,-71.794322,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.099699,-71.619399,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.448009,-73.254108,,,,,other
+PM2.5 monitor,42.452017,-73.255089,,,,,other
+PM2.5 monitor,42.702223,-73.110414,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.452299,-73.239648,,,,,other
+PM2.5 monitor,41.685707,-71.169235,,,,,other
+PM2.5 monitor,41.628715,-70.926149,,,,,other
+PM2.5 monitor,41.70038,-71.151156,,,,,other
+PM2.5 monitor,42.474642,-70.970816,,,,,other
+PM2.5 monitor,42.444722,-70.988889,,,,,other
+PM2.5 monitor,42.770837,-71.10229,,,,,other
+PM2.5 monitor,42.784792,-71.107028,,,,,other
+PM2.5 monitor,42.698215,-71.164413,,,,,other
+PM2.5 monitor,44.307,-86.242649,,,,,other
+PM2.5 monitor,46.518119,-87.521557,,,,,other
+PM2.5 monitor,44.310555,-84.891865,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.763936,-83.471878,,,,,other
+PM2.5 monitor,41.923582,-83.34573,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,43.233061,-86.23858,,,,,other
+PM2.5 monitor,42.463063,-83.183199,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.894444,-85.852778,,,,,other
+PM2.5 monitor,43.508358,-83.968032,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.953336,-82.456229,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,46.288877,-85.950227,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.293927,-83.711051,,,,,other
+PM2.5 monitor,42.240556,-83.599722,,,,,other
+PM2.5 monitor,42.228611,-83.208333,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.312078,-83.103469,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.388405,-82.979793,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.302778,-83.106667,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.357808,-83.096033,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.43084,-83.000138,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.423063,-83.426263,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.306666,-83.148889,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.187289,-83.153905,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.335008,-83.109563,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.323341,-83.068473,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.385998,-83.266189,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.421502,-83.425042,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.261669,-83.157893,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.312158,-83.091943,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.295824,-83.129431,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,43.571391,-83.890721,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.19779,-86.309694,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.493633,-84.364207,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.481689,-84.331705,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.454021,-84.606753,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.139391,-87.907356,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.3485,-84.9701,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.047224,-83.670159,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.768233,-86.150636,,,,,other
+PM2.5 monitor,44.75389,-85.592019,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.738618,-84.534633,,,,,other
+PM2.5 monitor,42.76138,-84.562867,,,,,other
+PM2.5 monitor,45.073069,-83.435531,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.15983,-88.119762,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.278067,-85.54189,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.984173,-85.671339,,,,,other
+PM2.5 monitor,42.885368,-85.679765,,,,,other
+PM2.5 monitor,42.956117,-85.679117,,,,,other
+PM2.5 monitor,41.995568,-83.946559,,,,,other
+PM2.5 monitor,42.731394,-82.793463,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.183761,-94.039819,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.996908,-92.450366,,,,,other
+PM2.5 monitor,46.586904,-95.584209,,,,,other
+PM2.5 monitor,46.011578,-92.487317,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.957263,-93.126951,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.927318,-93.067534,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.971539,-93.082984,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.973096,-93.199879,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.89926,-93.01708,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.95072,-93.09827,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.95939,-93.03587,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.931073,-93.156253,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.1364,-93.9813,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.523355,-92.536305,,,,,other
+PM2.5 monitor,46.77107,-92.11732,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.81826,-92.08936,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.76643,-92.13354,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.743657,-92.165998,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.791437,-93.512534,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,45.549839,-94.13345,,,,,other
+PM2.5 monitor,44.991634,-92.822429,,,,,other
+PM2.5 monitor,45.01876,-92.78027,,,,,other
+PM2.5 monitor,45.02798,-92.77415,,,,,other
+PM2.5 monitor,45.02862,-92.78336,,,,,other
+PM2.5 monitor,45.02124,-92.77525,,,,,other
+PM2.5 monitor,44.052838,-91.642692,,,,,other
+PM2.5 monitor,46.713694,-92.511722,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.20916,-93.66921,,,,,other
+PM2.5 monitor,47.159942,-94.150987,,,,,other
+PM2.5 monitor,47.38443,-94.60166,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.13768,-93.207615,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,47.972085,-89.69098,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.164666,-94.359379,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.39674,-94.1303,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.73846,-93.23725,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.706123,-93.285803,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.749967,-92.887985,,,,,other
+PM2.5 monitor,45.968217,-95.605594,,,,,other
+PM2.5 monitor,43.650235,-93.366599,,,,,other
+PM2.5 monitor,46.851811,-95.846272,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.03972,-93.29874,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.95208,-93.24428,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.981393,-93.300703,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.946341,-93.277353,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,45.013611,-93.272049,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.94805,-93.34315,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,45.001229,-93.267117,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,45.012102,-93.276699,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,45.008297,-93.277041,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.959409,-93.256892,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.87551,-93.25892,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.965242,-93.254759,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.95366,-93.25821,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.888551,-93.195377,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,45.004478,-93.240046,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.893005,-93.233227,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,47.236699,-93.526411,,,,,other
+PM2.5 monitor,45.112271,-95.040357,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.878159,-95.029172,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.948622,-91.495574,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.296309,-91.264331,,,,,other
+PM2.5 monitor,44.4438,-95.81789,,,,,other
+PM2.5 monitor,44.890795,-94.367483,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.2053,-93.75945,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.560752,-91.390405,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.5295,-89.691056,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.746056,-90.723028,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.750838,-90.734175,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.275528,-90.132528,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.32,-89.666667,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.32298,-90.887216,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.82056,-89.98778,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,31.32389,-89.2922,,,,,other
+PM2.5 monitor,33.834444,-89.792778,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.230363,-89.567498,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.38,-89.448333,,,,,other
+PM2.5 monitor,30.300833,-89.395916,,,,,other
+PM2.5 monitor,30.26892,-89.44933,,,,,other
+PM2.5 monitor,30.40966,-89.44114,,,,,other
+PM2.5 monitor,30.286737,-89.3743,,,,,other
+PM2.5 monitor,30.393193,-89.580378,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.390369,-89.049778,,,,,other
+PM2.5 monitor,30.373678,-89.15513,,,,,other
+PM2.5 monitor,30.449005,-89.052683,,,,,other
+PM2.5 monitor,30.470916,-88.9827,,,,,other
+PM2.5 monitor,30.319695,-89.267386,,,,,other
+PM2.5 monitor,32.385731,-90.1412,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.296952,-90.188394,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.33037,-90.166201,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.329111,-90.182722,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.346722,-90.225667,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.378287,-88.53393,,,,,other
+PM2.5 monitor,31.688638,-89.135115,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.364565,-88.731491,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.264917,-88.766222,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.491121,-88.418567,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.274083,-91.701611,,,,,other
+PM2.5 monitor,40.56,-93.418333,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.474976,-91.788991,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.872546,-90.226488,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.982225,-90.052547,,,,,other
+PM2.5 monitor,38.456762,-90.327477,,,,,other
+PM2.5 monitor,38.649771,-90.350659,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.650329,-90.350313,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.53278,-90.38243,,,,,other
+PM2.5 monitor,38.766158,-90.285934,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.956431,-92.321834,,,,,other
+PM2.5 monitor,39.755305,-94.845807,,,,,other
+PM2.5 monitor,39.741694,-94.858584,,,,,other
+PM2.5 monitor,38.75961,-94.57983,,,,,other
+PM2.5 monitor,37.70097,-94.03474,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.148647,-94.56524,,,,,other
+PM2.5 monitor,39.303174,-94.377014,,,,,other
+PM2.5 monitor,38.542551,-90.263711,,,,,other
+PM2.5 monitor,38.656429,-90.198348,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.673221,-90.239166,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.642857,-90.185059,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.656479,-90.189868,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.63114,-90.28115,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.199541,-93.284874,,,,,other
+PM2.5 monitor,37.256137,-93.299894,,,,,other
+PM2.5 monitor,37.000074,-91.68931,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.036,-94.5741,,,,,other
+PM2.5 monitor,39.095314,-94.578018,,,,,other
+PM2.5 monitor,39.104686,-94.57079,,,,,other
+PM2.5 monitor,39.037778,-94.5875,,,,,other
+PM2.5 monitor,39.109296,-94.441061,,,,,other
+PM2.5 monitor,39.047911,-94.450513,,,,,other
+PM2.5 monitor,38.940794,-94.578508,,,,,other
+PM2.5 monitor,37.198286,-94.317246,,,,,other
+PM2.5 monitor,38.43783,-90.361492,,,,,other
+PM2.5 monitor,38.44853,-90.3986,,,,,other
+PM2.5 monitor,45.206448,-112.64251,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.801897,-108.4268,,,,,other
+PM2.5 monitor,45.7804,-108.511542,,,,,other
+PM2.5 monitor,45.806311,-108.425978,,,,,other
+PM2.5 monitor,47.50218,-111.279698,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.411389,-105.812778,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.12072,-104.75168,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.048537,-109.455315,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.411632,-114.338189,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.20054,-114.305334,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.363694,-114.189272,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.381075,-114.175681,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.400407,-114.336962,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.657705,-111.091608,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.661393,-111.105891,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.657014,-111.089618,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.79367,-111.16489,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.726223,-111.068135,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.772707,-111.178286,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.607406,-112.36384,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.540373,-109.684432,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.526878,-114.101502,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.692161,-114.163172,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.603824,-112.036109,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.954415,-112.697617,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.954617,-112.682575,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.658762,-112.013089,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.8505,-111.987164,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.391545,-115.553309,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.881214,-113.885678,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.177035,-113.483612,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.842181,-114.021499,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.874836,-113.996196,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.012907,-114.224273,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.317507,-107.862471,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.440295,-105.370283,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.244328,-114.158166,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.243621,-114.158889,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.803392,-104.485552,,,,,other
+PM2.5 monitor,47.8679,-104.676944,,,,,other
+PM2.5 monitor,45.366151,-106.48982,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.623325,-106.668643,,,,,other
+PM2.5 monitor,47.594395,-115.323746,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.002602,-112.501247,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.820308,-112.193636,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.812591,-96.683314,,,,,other
+PM2.5 monitor,41.136109,-100.764867,,,,,other
+PM2.5 monitor,41.133294,-95.956103,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.864967,-103.664943,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.876853,-103.656561,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.875556,-103.658056,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.551211,-96.146175,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.865557,-96.146955,,,,,other
+PM2.5 monitor,42.624999,-97.250331,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.958335,-101.625425,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.093322,-102.471578,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.247486,-95.973142,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.386108,-96.116128,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.197847,-96.056686,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.285,-96.824166,,,,,other
+PM2.5 monitor,40.925012,-98.339784,,,,,other
+PM2.5 monitor,40.942099,-98.364967,,,,,other
+PM2.5 monitor,40.915555,-98.378888,,,,,other
+PM2.5 monitor,35.785665,-115.357087,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.139707,-115.175654,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.174365,-115.13977,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.191251,-115.122953,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.214465,-115.091437,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.39103,-114.907429,,,,,other
+PM2.5 monitor,36.815897,-114.050347,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.048705,-115.052942,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.987908,-115.148885,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.106389,-115.253333,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.004733,-115.268517,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.141875,-115.078742,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.158582,-115.111666,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.163962,-115.11393,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.969848,-114.835007,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.16976,-115.263038,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.173415,-115.332728,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.270592,-115.238282,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.357786,-115.362234,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.540917,-119.746761,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.621434,-119.71877,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.525083,-119.807717,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.250409,-119.956738,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.532004,-119.784982,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.399837,-119.739606,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.521933,-119.7954,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.897557,-119.732507,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.043241,-119.950183,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.1447,-119.7661,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.572855,-71.418406,,,,,other
+PM2.5 monitor,43.566122,-71.496335,,,,,other
+PM2.5 monitor,43.520844,-71.466609,,,,,other
+PM2.5 monitor,43.519907,-71.474179,,,,,other
+PM2.5 monitor,43.52496,-71.466336,,,,,other
+PM2.5 monitor,42.758145,-71.465621,,,,,other
+PM2.5 monitor,42.702034,-71.444509,,,,,other
+PM2.5 monitor,42.762056,-71.444583,,,,,other
+PM2.5 monitor,43.00064,-71.467568,,,,,other
+PM2.5 monitor,42.995778,-71.462528,,,,,other
+PM2.5 monitor,42.86183,-71.878626,,,,,other
+PM2.5 monitor,43.13246,-71.458246,,,,,other
+PM2.5 monitor,43.205914,-71.537572,,,,,other
+PM2.5 monitor,43.326464,-72.077585,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.075371,-70.748017,,,,,other
+PM2.5 monitor,42.862531,-71.38014,,,,,other
+PM2.5 monitor,43.077589,-70.753665,,,,,other
+PM2.5 monitor,43.078144,-70.762276,,,,,other
+PM2.5 monitor,43.364518,-72.337867,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.930521,-72.272332,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.471169,-71.166188,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.629605,-72.309499,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.75681,-71.68638,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.083954,-72.009533,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.36326,-74.431,,,,,other
+PM2.5 monitor,39.464872,-74.448736,,,,,other
+PM2.5 monitor,39.422273,-75.025204,,,,,other
+PM2.5 monitor,40.730286,-74.212738,,,,,other
+PM2.5 monitor,40.722222,-74.146944,,,,,other
+PM2.5 monitor,40.720989,-74.192892,,,,,other
+PM2.5 monitor,39.800339,-75.212119,,,,,other
+PM2.5 monitor,39.830806,-75.284723,,,,,other
+PM2.5 monitor,39.82572,-75.28939,,,,,other
+PM2.5 monitor,40.725413,-74.052293,,,,,other
+PM2.5 monitor,40.772793,-74.031718,,,,,other
+PM2.5 monitor,40.770908,-74.036218,,,,,other
+PM2.5 monitor,40.515262,-74.806671,,,,,other
+PM2.5 monitor,40.283092,-74.742613,,,,,other
+PM2.5 monitor,40.222411,-74.763167,,,,,other
+PM2.5 monitor,40.31239,-74.87266,,,,,other
+PM2.5 monitor,40.462182,-74.429439,,,,,other
+PM2.5 monitor,40.472825,-74.422403,,,,,other
+PM2.5 monitor,40.787628,-74.676301,,,,,other
+PM2.5 monitor,40.801211,-74.483433,,,,,other
+PM2.5 monitor,39.994908,-74.170447,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.85355,-73.96618,,,,,other
+PM2.5 monitor,40.852256,-73.973314,,,,,other
+PM2.5 monitor,40.817218,-74.043758,,,,,other
+PM2.5 monitor,40.816809,-74.043673,,,,,other
+PM2.5 monitor,40.833111,-74.043459,,,,,other
+PM2.5 monitor,40.918381,-74.168092,,,,,other
+PM2.5 monitor,40.603943,-74.276174,,,,,other
+PM2.5 monitor,40.64144,-74.208365,,,,,other
+PM2.5 monitor,40.673406,-74.213889,,,,,other
+PM2.5 monitor,40.699207,-75.180525,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.92458,-75.067815,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.923969,-75.122317,,,,,other
+PM2.5 monitor,39.989036,-75.050008,,,,,other
+PM2.5 monitor,39.934559,-75.125219,,,,,other
+PM2.5 monitor,39.923042,-75.097617,,,,,other
+PM2.5 monitor,35.1852,-106.50815,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.19324,-106.613815,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.063569,-106.647503,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.1343,-106.5852,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.0631,-106.578785,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.1443,-106.60468,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.01708,-106.65739,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.903108,-106.700581,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.9031,-106.7,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.318982,-106.77167,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.003712,-106.599715,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.79594,-106.558044,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.796218,-106.584434,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.787885,-106.683324,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.322037,-106.768337,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.784519,-108.272271,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.724832,-103.129097,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.726656,-103.122917,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.238098,-106.650026,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.610031,-106.34836,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.50642,-106.722811,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.615306,-106.725034,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.5064,-106.7222,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.774162,-108.165034,,,,,other
+PM2.5 monitor,36.727503,-108.221463,,,,,other
+PM2.5 monitor,35.671142,-105.954188,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.61975,-106.07968,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.892804,-106.0228,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.397043,-104.524135,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.383359,-105.5839,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.68075,-73.75733,,,,,other
+PM2.5 monitor,42.64225,-73.75464,,,,,other
+PM2.5 monitor,42.09142,-77.20978,,,,,other
+PM2.5 monitor,40.745932,-73.419845,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.74529,-73.41919,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.82799,-73.05754,,,,,other
+PM2.5 monitor,40.93149,-73.76575,,,,,other
+PM2.5 monitor,42.29071,-79.58961,,,,,other
+PM2.5 monitor,42.49963,-79.31881,,,,,other
+PM2.5 monitor,41.69486,-73.91441,,,,,other
+PM2.5 monitor,42.8273,-78.84984,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.99328,-78.77153,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.921107,-78.765825,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,42.876907,-78.809526,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,44.39308,-73.8589,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.73277,-73.94722,,,,,other
+PM2.5 monitor,40.69454,-73.92769,,,,,other
+PM2.5 monitor,40.71961,-73.94771,,,,,other
+PM2.5 monitor,40.64182,-74.01871,,,,,other
+PM2.5 monitor,40.671953,-73.977823,,,,,other
+PM2.5 monitor,40.816,-73.902,,,,,other
+PM2.5 monitor,40.81551,-73.88553,,,,,other
+PM2.5 monitor,40.8679,-73.87809,,,,,other
+PM2.5 monitor,40.83606,-73.92009,,,,,other
+PM2.5 monitor,40.86585,-73.88083,,,,,other
+PM2.5 monitor,43.14618,-77.54817,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,43.145013,-77.55728,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,43.158442,-77.564302,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,43.161062,-77.603293,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.78527,-73.64416,,,,,other
+PM2.5 monitor,40.78909,-73.63648,,,,,other
+PM2.5 monitor,40.76078,-73.4906,,,,,other
+PM2.5 monitor,40.74316,-73.58549,,,,,other
+PM2.5 monitor,40.63103,-73.73388,,,,,other
+PM2.5 monitor,40.739546,-73.985694,,,,,other
+PM2.5 monitor,40.73,-73.984,,,,,other
+PM2.5 monitor,40.71436,-73.99518,,,,,other
+PM2.5 monitor,40.81976,-73.94825,,,,,other
+PM2.5 monitor,40.75912,-73.96661,,,,,other
+PM2.5 monitor,40.720622,-74.003674,,,,,other
+PM2.5 monitor,40.7997,-73.93432,,,,,other
+PM2.5 monitor,43.08218,-79.00106,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,43.09892,-75.22506,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.05235,-76.05921,,,,,other
+PM2.5 monitor,43.04823,-76.16479,,,,,other
+PM2.5 monitor,43.02014,-76.16075,,,,,other
+PM2.5 monitor,42.108806,-75.879909,,,,,other
+PM2.5 monitor,41.49916,-74.00885,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.73614,-73.82153,,,,,other
+PM2.5 monitor,40.739264,-73.817694,,,,,other
+PM2.5 monitor,40.77798,-73.84318,,,,,other
+PM2.5 monitor,40.77039,-73.82841,,,,,other
+PM2.5 monitor,40.75527,-73.75861,,,,,other
+PM2.5 monitor,40.58027,-74.19832,,,,,other
+PM2.5 monitor,40.63307,-74.13719,,,,,other
+PM2.5 monitor,40.59664,-74.12525,,,,,other
+PM2.5 monitor,44.67811,-74.95151,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.79901,-73.9389,,,,,other
+PM2.5 monitor,36.089004,-79.407821,,,,,other
+PM2.5 monitor,35.59095,-78.4622,,,,,other
+PM2.5 monitor,35.4325,-79.2887,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.2318,-77.5669,,,,,other
+PM2.5 monitor,35.687406,-81.993808,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.81066,-76.9063,,,,,other
+PM2.5 monitor,35.22542,-80.882572,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.139589,-80.847294,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.2401,-80.785683,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.151283,-80.866983,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.3041,-80.88865,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.213171,-80.874084,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.281791,-80.851473,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.915278,-82.073333,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.912487,-82.062082,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.263165,-79.836636,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.950237,-77.783464,,,,,other
+PM2.5 monitor,34.364167,-77.838611,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,34.237184,-77.910073,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,36.511708,-77.655389,,,,,other
+PM2.5 monitor,34.772828,-77.42796,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.901944,-79.056667,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,36.229601,-76.293825,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.594328,-77.385798,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.641276,-77.360126,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.625165,-78.987809,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,34.645,-78.99028,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.551868,-80.395039,,,,,other
+PM2.5 monitor,35.434767,-83.442133,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.498711,-83.310242,,,,,other
+PM2.5 monitor,35.856111,-78.574167,,,,,other
+PM2.5 monitor,35.790023,-78.619723,,,,,other
+PM2.5 monitor,35.7288,-78.6802,,,,,other
+PM2.5 monitor,35.8652,-78.8197,,,,,other
+PM2.5 monitor,36.221944,-81.663056,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.369214,-77.993893,,,,,other
+PM2.5 monitor,35.6062,-82.5844,,,,,other
+PM2.5 monitor,35.507083,-80.617845,,,,,other
+PM2.5 monitor,36.307033,-79.467417,,,,,other
+PM2.5 monitor,35.728889,-81.365556,,,,,other
+PM2.5 monitor,35.595689,-81.401753,,,,,other
+PM2.5 monitor,35.7278,-81.3425,,,,,other
+PM2.5 monitor,35.757222,-79.159722,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.041416,-78.953112,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.8145,-80.2627,,,,,other
+PM2.5 monitor,35.77881,-80.30236,,,,,other
+PM2.5 monitor,35.84119,-80.24452,,,,,other
+PM2.5 monitor,34.954823,-77.960781,,,,,other
+PM2.5 monitor,35.991944,-78.896389,,,,,other
+PM2.5 monitor,36.032955,-78.904037,,,,,other
+PM2.5 monitor,35.953488,-77.785533,,,,,other
+PM2.5 monitor,35.93355,-77.75007,,,,,other
+PM2.5 monitor,36.11094,-80.224501,,,,,other
+PM2.5 monitor,36.171527,-80.281717,,,,,other
+PM2.5 monitor,36.026612,-80.341962,,,,,other
+PM2.5 monitor,35.253056,-81.153333,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.955556,-79.998889,,,,,other
+PM2.5 monitor,36.109006,-79.802314,,,,,other
+PM2.5 monitor,36.06866,-80.00705,,,,,other
+PM2.5 monitor,36.075833,-79.794444,,,,,other
+PM2.5 monitor,35.489167,-82.9875,,,,,other
+PM2.5 monitor,35.50575,-82.97918,,,,,other
+PM2.5 monitor,35.466767,-83.277928,,,,,other
+PM2.5 monitor,47.940861,-101.571583,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.15278,-103.63951,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.9904,-102.7815,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.876553,-102.56842,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.64193,-102.4018,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.825425,-100.76821,,,,,other
+PM2.5 monitor,46.933754,-96.85535,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.3132,-102.5273,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.342423,-102.645864,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.918596,-97.082314,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.5812,-103.2995,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.298611,-101.766944,,,,,other
+PM2.5 monitor,47.185833,-101.428056,,,,,other
+PM2.5 monitor,46.8943,-103.37853,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.88,-102.788333,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.599703,-97.899009,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.10087,-81.911636,,,,,other
+PM2.5 monitor,41.0604,-81.9239,,,,,other
+PM2.5 monitor,39.76367,-84.191884,,,,,other
+PM2.5 monitor,39.759533,-84.144201,,,,,other
+PM2.5 monitor,39.760659,-84.187678,,,,,other
+PM2.5 monitor,39.755969,-84.198674,,,,,other
+PM2.5 monitor,39.9679,-80.7464,,,,,other
+PM2.5 monitor,41.1644,-81.2352,,,,,other
+PM2.5 monitor,39.83562,-84.720524,,,,,other
+PM2.5 monitor,38.754599,-82.91701,,,,,other
+PM2.5 monitor,38.59246,-82.80677,,,,,other
+PM2.5 monitor,40.786804,-81.394153,,,,,other
+PM2.5 monitor,40.800717,-81.373,,,,,other
+PM2.5 monitor,41.063526,-81.468956,,,,,other
+PM2.5 monitor,41.087862,-81.541532,,,,,other
+PM2.5 monitor,41.23172,-80.80116,,,,,other
+PM2.5 monitor,41.231167,-80.801914,,,,,other
+PM2.5 monitor,41.214577,-80.787053,,,,,other
+PM2.5 monitor,39.42689,-84.20077,,,,,other
+PM2.5 monitor,39.528439,-84.3942,,,,,other
+PM2.5 monitor,39.49072,-84.36374,,,,,other
+PM2.5 monitor,39.33839,-84.5666,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.52455,-84.369652,,,,,other
+PM2.5 monitor,39.479822,-84.409617,,,,,other
+PM2.5 monitor,39.472436,-84.394952,,,,,other
+PM2.5 monitor,39.478686,-84.397112,,,,,other
+PM2.5 monitor,39.4938,-84.3543,,,,,other
+PM2.5 monitor,39.92882,-83.80949,,,,,other
+PM2.5 monitor,39.0828,-84.1441,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.770944,-84.0539,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.39629,-81.818667,,,,,other
+PM2.5 monitor,41.484041,-81.673603,,,,,other
+PM2.5 monitor,41.480891,-81.703803,,,,,other
+PM2.5 monitor,41.55523,-81.575256,,,,,other
+PM2.5 monitor,41.477011,-81.682383,,,,,other
+PM2.5 monitor,41.471782,-81.656792,,,,,other
+PM2.5 monitor,41.492117,-81.678449,,,,,other
+PM2.5 monitor,41.446624,-81.662356,,,,,other
+PM2.5 monitor,41.462831,-81.580125,,,,,other
+PM2.5 monitor,41.44013,-81.494833,,,,,other
+PM2.5 monitor,39.99875,-82.99344,,,,,other
+PM2.5 monitor,39.92845,-82.98104,,,,,other
+PM2.5 monitor,40.084514,-82.815585,,,,,other
+PM2.5 monitor,40.002707,-82.994424,,,,,other
+PM2.5 monitor,40.11107,-83.065415,,,,,other
+PM2.5 monitor,39.928531,-82.980105,,,,,other
+PM2.5 monitor,39.91251,-83.01159,,,,,other
+PM2.5 monitor,40.0877,-82.959773,,,,,other
+PM2.5 monitor,39.80834,-83.88705,,,,,other
+PM2.5 monitor,39.21487,-84.69086,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.19433,-84.478974,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.12886,-84.50404,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.186026,-84.513662,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.10492,-84.55117,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.290319,-84.414356,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.146025,-84.538375,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.2787,-84.36625,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.16032,-84.45826,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.180527,-84.49215,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.33699,-80.94228,,,,,other
+PM2.5 monitor,40.332933,-80.933401,,,,,other
+PM2.5 monitor,40.32207,-80.6063,,,,,other
+PM2.5 monitor,40.362847,-80.615352,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.3663,-80.6158,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.319511,-80.607945,,,,,other
+PM2.5 monitor,41.754963,-81.273114,,,,,other
+PM2.5 monitor,41.72229,-81.24248,,,,,other
+PM2.5 monitor,41.726811,-81.242156,,,,,other
+PM2.5 monitor,38.520043,-82.665331,,,,,other
+PM2.5 monitor,38.508075,-82.659241,,,,,other
+PM2.5 monitor,39.442165,-81.908827,,,,,other
+PM2.5 monitor,41.439458,-82.161501,,,,,other
+PM2.5 monitor,41.468652,-82.159595,,,,,other
+PM2.5 monitor,41.463071,-82.114261,,,,,other
+PM2.5 monitor,41.679867,-83.4785,,,,,other
+PM2.5 monitor,41.644067,-83.54616,,,,,other
+PM2.5 monitor,41.66579,-83.47611,,,,,other
+PM2.5 monitor,41.62057,-83.64226,,,,,other
+PM2.5 monitor,41.662567,-83.478333,,,,,other
+PM2.5 monitor,41.09596,-80.65847,,,,,other
+PM2.5 monitor,41.106182,-80.640576,,,,,other
+PM2.5 monitor,41.111111,-80.645278,,,,,other
+PM2.5 monitor,35.880404,-109.438003,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.2439,-113.5586,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.41018,-111.86536,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.56031,-112.06619,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.48378,-112.14256,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.57453,-112.19193,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.426663,-112.118716,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.40314,-112.07526,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.41123,-111.93471,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.40635,-112.14426,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.39623,-111.96799,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.46173,-112.12796,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.41046,-112.00264,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.488131,-111.855443,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.4265,-112.11821,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.503833,-112.095767,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.540017,-113.410782,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.29515,-110.9823,,,,,other
+PM2.5 monitor,32.194671,-111.033167,,,,,other
+PM2.5 monitor,32.322661,-111.038389,,,,,other
+PM2.5 monitor,32.877583,-111.752222,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.421194,-111.503222,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.01053,-111.97205,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.884761,-112.03705,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.337204,-110.936718,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.595,-112.331,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.677001,-114.648905,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.690278,-114.61444,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.3492,-109.539683,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.206111,-111.652777,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.229733,-111.3295,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.750735,-94.669697,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.755372,-95.377916,,,,,other
+PM2.5 monitor,36.91841,-95.632286,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.614131,-97.475083,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.47292,-97.52709,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.490338,-97.486983,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.50307,-97.577981,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.922222,-94.838889,,,,,other
+PM2.5 monitor,36.985702,-94.83931,,,,,other
+PM2.5 monitor,36.338056,-96.793611,,,,,other
+PM2.5 monitor,36.107274,-97.059479,,,,,other
+PM2.5 monitor,34.885608,-95.78441,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.348126,-96.903356,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.129722,-96.490556,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.581174,-94.830059,,,,,other
+PM2.5 monitor,35.40814,-94.524413,,,,,other
+PM2.5 monitor,36.14004,-95.925382,,,,,other
+PM2.5 monitor,36.204902,-95.976537,,,,,other
+PM2.5 monitor,36.119819,-95.857767,,,,,other
+PM2.5 monitor,35.953708,-96.004975,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.908115,-95.88235,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.111944,-98.252778,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.613044,-97.99325,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.166667,-97.126389,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.244189,-97.462931,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.85408,-94.985964,,,,,other
+PM2.5 monitor,35.320105,-97.484099,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.628724,-98.425672,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.63298,-98.42879,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.516019,-98.96729,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.158414,-98.931973,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.420311,-97.88728,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.704761,-97.087656,,,,,other
+PM2.5 monitor,36.697186,-97.08135,,,,,other
+PM2.5 monitor,36.662778,-97.074444,,,,,other
+PM2.5 monitor,36.956222,-97.03135,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.186278,-94.786643,,,,,other
+PM2.5 monitor,35.6725,-96.657222,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.880812,-97.275896,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.304718,-95.310863,,,,,other
+PM2.5 monitor,36.228408,-95.249943,,,,,other
+PM2.5 monitor,44.299787,-120.844773,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.062339,-121.32281,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.063916,-121.312554,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.2266,-123.36479,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.586261,-119.052159,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.58925,-119.04872,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.535958,-122.876155,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.31411,-122.87923,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.33155,-122.880266,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.3324,-122.8891,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.426705,-122.852272,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.5884,-123.2673,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.431944,-123.345833,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.290094,-123.2321,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.434139,-123.348466,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.190296,-121.731369,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.189215,-120.353969,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.22016,-120.433294,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.8345,-123.0353,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.046696,-123.017704,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.1158,-123.1211,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.076365,-123.0369,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.053737,-122.938971,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.744352,-122.480487,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.066304,-123.139831,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.067224,-123.141352,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.026312,-123.083737,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.790472,-123.058344,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.799501,-123.053487,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.3958,-122.7305,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.61569,-123.091457,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.266079,-122.832817,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.943231,-123.006,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.943114,-123.005934,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.535,-122.698889,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.56137,-122.6679,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.496641,-122.602877,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.839111,-119.283,,,,,other
+PM2.5 monitor,45.828968,-119.262991,,,,,other
+PM2.5 monitor,45.652231,-118.823033,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.66408,-118.68909,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.319216,-118.098668,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.339,-118.095206,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.261667,-118.041111,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.602419,-121.203387,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.518294,-122.967048,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.470191,-122.816411,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.528501,-122.972398,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.3992,-122.7455,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.768531,-122.7721,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.92002,-77.30968,,,,,other
+PM2.5 monitor,40.035985,-75.002405,,,,,other
+PM2.5 monitor,39.927613,-75.222403,,,,,other
+PM2.5 monitor,40.049604,-75.241209,,,,,other
+PM2.5 monitor,40.002335,-75.219903,,,,,other
+PM2.5 monitor,40.076389,-75.011944,,,,,other
+PM2.5 monitor,40.010668,-75.151565,,,,,other
+PM2.5 monitor,39.94418,-75.165722,,,,,other
+PM2.5 monitor,40.008889,-75.09778,,,,,other
+PM2.5 monitor,39.944651,-75.165206,,,,,other
+PM2.5 monitor,39.991389,-75.080833,,,,,other
+PM2.5 monitor,39.93139,-75.16222,,,,,other
+PM2.5 monitor,39.922867,-75.186921,,,,,other
+PM2.5 monitor,39.960048,-75.142614,,,,,other
+PM2.5 monitor,40.054171,-74.985166,,,,,other
+PM2.5 monitor,39.988842,-75.207205,,,,,other
+PM2.5 monitor,40.392694,-75.925222,,,,,other
+PM2.5 monitor,40.38335,-75.9686,,,,,other
+PM2.5 monitor,40.320278,-75.926667,,,,,other
+PM2.5 monitor,41.867331,-75.686219,,,,,other
+PM2.5 monitor,41.644722,-76.939167,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.844722,-79.169722,,,,,other
+PM2.5 monitor,40.170556,-80.261389,,,,,other
+PM2.5 monitor,40.146667,-79.902222,,,,,other
+PM2.5 monitor,40.445278,-80.420833,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.268963,-80.243995,,,,,other
+PM2.5 monitor,40.304694,-79.505667,,,,,other
+PM2.5 monitor,40.535278,-78.370833,,,,,other
+PM2.5 monitor,41.605244,-75.95774,,,,,other
+PM2.5 monitor,39.965278,-76.699444,,,,,other
+PM2.5 monitor,41.705226,-76.512726,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.107222,-74.882222,,,,,other
+PM2.5 monitor,40.309722,-78.915,,,,,other
+PM2.5 monitor,40.811389,-77.877028,,,,,other
+PM2.5 monitor,39.834461,-75.768242,,,,,other
+PM2.5 monitor,40.617488,-79.727664,,,,,other
+PM2.5 monitor,40.47368,-80.077,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.402328,-79.860973,,,,,other
+PM2.5 monitor,40.289444,-80.005,,,,,other
+PM2.5 monitor,40.260129,-79.886498,,,,,other
+PM2.5 monitor,40.43743,-79.863572,,,,,other
+PM2.5 monitor,40.50084,-80.066488,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.41368,-79.941162,,,,,other
+PM2.5 monitor,40.294341,-79.885331,,,,,other
+PM2.5 monitor,40.323768,-79.868062,,,,,other
+PM2.5 monitor,40.375644,-80.169943,,,,,other
+PM2.5 monitor,40.46542,-79.960757,,,,,other
+PM2.5 monitor,40.547011,-79.78366,,,,,other
+PM2.5 monitor,40.606624,-80.021669,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.487012,-80.187837,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.553124,-80.203114,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.252222,-77.140472,,,,,other
+PM2.5 monitor,40.246528,-77.18675,,,,,other
+PM2.5 monitor,40.272222,-76.681389,,,,,other
+PM2.5 monitor,40.246992,-76.846988,,,,,other
+PM2.5 monitor,39.818715,-75.413973,,,,,other
+PM2.5 monitor,39.835556,-75.3725,,,,,other
+PM2.5 monitor,42.14175,-80.038611,,,,,other
+PM2.5 monitor,40.814183,-79.56475,,,,,other
+PM2.5 monitor,39.917663,-79.805499,,,,,other
+PM2.5 monitor,39.80933,-80.26567,,,,,other
+PM2.5 monitor,40.56333,-78.919972,,,,,other
+PM2.5 monitor,41.442778,-75.623056,,,,,other
+PM2.5 monitor,40.747796,-80.316442,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.691857,-80.299211,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.043833,-76.1124,,,,,other
+PM2.5 monitor,40.046667,-76.283333,,,,,other
+PM2.5 monitor,40.337328,-76.383447,,,,,other
+PM2.5 monitor,40.338516,-76.394788,,,,,other
+PM2.5 monitor,40.611944,-75.4325,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,41.265556,-75.846389,,,,,other
+PM2.5 monitor,41.266263,-77.231189,,,,,other
+PM2.5 monitor,41.215014,-80.484779,,,,,other
+PM2.5 monitor,41.08306,-75.32328,,,,,other
+PM2.5 monitor,40.112222,-75.309167,,,,,other
+PM2.5 monitor,40.628056,-75.341111,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.645889,-75.404397,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.456944,-77.165556,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.615237,-71.72,,,,,other
+PM2.5 monitor,41.878433,-71.378389,,,,,other
+PM2.5 monitor,41.841039,-71.36097,,,,,other
+PM2.5 monitor,41.811767,-71.40589,,,,,other
+PM2.5 monitor,41.807469,-71.412968,,,,,other
+PM2.5 monitor,41.912877,-71.672011,,,,,other
+PM2.5 monitor,41.874668,-71.379971,,,,,other
+PM2.5 monitor,41.809235,-71.40743,,,,,other
+PM2.5 monitor,41.829495,-71.417457,,,,,other
+PM2.5 monitor,41.771987,-71.427881,,,,,other
+PM2.5 monitor,41.49511,-71.423705,,,,,other
+PM2.5 monitor,32.434882,-80.677853,,,,,other
+PM2.5 monitor,33.19698,-79.976767,,,,,other
+PM2.5 monitor,32.84755,-79.96516,,,,,other
+PM2.5 monitor,32.836602,-79.956983,,,,,other
+PM2.5 monitor,32.941023,-79.657187,,,,,other
+PM2.5 monitor,32.980254,-80.06501,,,,,other
+PM2.5 monitor,32.790984,-79.958694,,,,,other
+PM2.5 monitor,32.843553,-79.95699,,,,,other
+PM2.5 monitor,32.780926,-79.973596,,,,,other
+PM2.5 monitor,32.837917,-79.867063,,,,,other
+PM2.5 monitor,32.830746,-79.957197,,,,,other
+PM2.5 monitor,34.615367,-80.198787,,,,,other
+PM2.5 monitor,33.007866,-80.965038,,,,,other
+PM2.5 monitor,33.342226,-81.788731,,,,,other
+PM2.5 monitor,33.739963,-81.853635,,,,,other
+PM2.5 monitor,34.167636,-79.850404,,,,,other
+PM2.5 monitor,34.214263,-79.767347,,,,,other
+PM2.5 monitor,33.373994,-79.285697,,,,,other
+PM2.5 monitor,34.884511,-82.359807,,,,,other
+PM2.5 monitor,34.817197,-82.418487,,,,,other
+PM2.5 monitor,34.854799,-82.380631,,,,,other
+PM2.5 monitor,34.842279,-82.401163,,,,,other
+PM2.5 monitor,34.843895,-82.414585,,,,,other
+PM2.5 monitor,34.751848,-82.256701,,,,,other
+PM2.5 monitor,34.838814,-82.402918,,,,,other
+PM2.5 monitor,34.899141,-82.31307,,,,,other
+PM2.5 monitor,34.212869,-82.173149,,,,,other
+PM2.5 monitor,33.702771,-78.877478,,,,,other
+PM2.5 monitor,33.8005,-78.9941,,,,,other
+PM2.5 monitor,33.785602,-81.119776,,,,,other
+PM2.5 monitor,34.051017,-81.15495,,,,,other
+PM2.5 monitor,34.805261,-83.2377,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.529881,-80.866837,,,,,other
+PM2.5 monitor,34.131262,-80.868318,,,,,other
+PM2.5 monitor,33.982253,-81.040235,,,,,other
+PM2.5 monitor,33.991509,-81.024141,,,,,other
+PM2.5 monitor,34.075687,-81.124988,,,,,other
+PM2.5 monitor,34.093959,-80.962304,,,,,other
+PM2.5 monitor,34.926839,-82.005211,,,,,other
+PM2.5 monitor,34.955566,-81.924797,,,,,other
+PM2.5 monitor,34.935817,-81.228409,,,,,other
+PM2.5 monitor,34.9127,-80.8745,,,,,other
+PM2.5 monitor,44.078352,-103.22824,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.083489,-103.269603,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.136098,-103.297684,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.064932,-103.209138,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.065552,-103.270045,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.087405,-103.274271,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.087397,-103.273777,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.310283,-96.80071,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.348604,-96.807299,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.751518,-96.707208,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.850975,-96.747325,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.4625,-98.486111,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.468596,-98.494061,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.78943,-96.90383,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.89965,-97.128802,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.55764,-103.48386,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.373786,-100.287269,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.74561,-101.941218,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.155636,-103.315765,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.544289,-96.726435,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.537626,-96.682001,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.54792,-96.700769,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.59901,-96.78331,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.744539,-84.317057,,,,,other
+PM2.5 monitor,35.721095,-84.343035,,,,,other
+PM2.5 monitor,35.450115,-84.596195,,,,,other
+PM2.5 monitor,35.705319,-88.81964,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.609722,-88.815556,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.651349,-88.809578,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.65188,-87.0096,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.514627,-87.328041,,,,,other
+PM2.5 monitor,36.625,-87.169167,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.611411,-87.384666,,,,,other
+PM2.5 monitor,36.173672,-85.50942,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.185702,-85.492107,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.916761,-84.503624,,,,,other
+PM2.5 monitor,35.9049,-84.51157,,,,,other
+PM2.5 monitor,35.902566,-84.524061,,,,,other
+PM2.5 monitor,35.918102,-84.511151,,,,,other
+PM2.5 monitor,35.907121,-84.49709,,,,,other
+PM2.5 monitor,35.889824,-84.51713,,,,,other
+PM2.5 monitor,35.9255,-84.51657,,,,,other
+PM2.5 monitor,35.939078,-84.542802,,,,,other
+PM2.5 monitor,35.16126,-89.87065,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.378153,-89.83447,,,,,other
+PM2.5 monitor,35.085924,-89.949533,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.151194,-90.041559,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.184167,-89.930278,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.168894,-90.021537,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.151699,-89.850249,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,36.538761,-82.521599,,,,,other
+PM2.5 monitor,36.29756,-86.653137,,,,,other
+PM2.5 monitor,36.176382,-86.7389,,,,,other
+PM2.5 monitor,36.100059,-86.734442,,,,,other
+PM2.5 monitor,36.118251,-86.873547,,,,,other
+PM2.5 monitor,36.1424,-86.7341,,,,,other
+PM2.5 monitor,36.05266,-89.382157,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.233476,-85.181581,,,,,other
+PM2.5 monitor,34.99438,-85.24293,,,,,other
+PM2.5 monitor,35.176181,-85.253291,,,,,other
+PM2.5 monitor,35.050918,-85.293019,,,,,other
+PM2.5 monitor,35.63348,-83.941606,,,,,other
+PM2.5 monitor,35.768847,-83.942152,,,,,other
+PM2.5 monitor,35.77,-83.938889,,,,,other
+PM2.5 monitor,35.980675,-83.925773,,,,,other
+PM2.5 monitor,35.978074,-83.950666,,,,,other
+PM2.5 monitor,36.019186,-83.87381,,,,,other
+PM2.5 monitor,35.944601,-84.03598,,,,,other
+PM2.5 monitor,35.115968,-87.469954,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.116878,-87.419725,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.692354,-96.792778,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.7106,-96.8033,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.916792,-96.768889,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.774258,-96.797678,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.778889,-96.873056,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.820061,-96.860117,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.676448,-96.87205,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.219074,-97.196296,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.162892,-98.589146,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,31.870261,-102.334748,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.836617,-102.342027,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.436944,-97.025,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.482083,-97.026899,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.899722,-106.4125,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.757654,-106.482922,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.768286,-106.501243,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.735889,-106.377919,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.765684,-106.455227,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.846667,-106.588333,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.758532,-106.501045,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.746748,-106.402788,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.667549,-106.287972,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.893941,-106.425837,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.503889,-95.104444,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.25447,-94.861278,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.263319,-94.856568,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.39,-94.919444,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.378681,-94.711803,,,,,other
+PM2.5 monitor,29.768033,-95.220574,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.733737,-95.257605,,,,,other
+PM2.5 monitor,29.751111,-95.361389,,,,,other
+PM2.5 monitor,29.670552,-95.129933,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.583068,-95.015554,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.814387,-95.387817,,,,,other
+PM2.5 monitor,29.763567,-95.272233,,,,,other
+PM2.5 monitor,29.769442,-95.318978,,,,,other
+PM2.5 monitor,29.90103,-95.326147,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.802716,-95.125516,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.828516,-95.283956,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.623961,-95.474333,,,,,other
+PM2.5 monitor,29.69566,-95.49924,,,,,other
+PM2.5 monitor,29.770692,-95.031237,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.625667,-95.267058,,,,,other
+PM2.5 monitor,29.723333,-95.635941,,,,,other
+PM2.5 monitor,29.752778,-95.350278,,,,,other
+PM2.5 monitor,32.669005,-94.167468,,,,,other
+PM2.5 monitor,26.288486,-98.152059,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.309858,-98.183101,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.22624,-98.291147,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.669362,-104.024657,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.922894,-93.909018,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.863962,-94.317802,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.564967,-96.317683,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.122413,-97.431055,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.422439,-97.300866,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.529433,-98.391385,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,29.635135,-98.417659,,,,,other
+PM2.5 monitor,29.515061,-98.620211,,,,,other
+PM2.5 monitor,29.632077,-98.564918,,,,,other
+PM2.5 monitor,29.587741,-98.312512,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,29.275371,-98.3117,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,29.422197,-98.505425,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,29.423938,-98.580505,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,33.590851,-101.847594,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.585565,-101.786968,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.590764,-101.850419,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.520556,-97.200556,,,,,other
+PM2.5 monitor,32.742919,-94.303524,,,,,other
+PM2.5 monitor,28.704629,-100.451154,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.350325,-95.425137,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.353889,-95.421667,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.031946,-96.399147,,,,,other
+PM2.5 monitor,27.806944,-97.454167,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.804489,-97.431528,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.811833,-97.465706,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.085258,-93.761366,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.194167,-93.866944,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.436223,-94.077756,,,,,other
+PM2.5 monitor,33.425758,-94.070802,,,,,other
+PM2.5 monitor,35.236745,-101.787378,,,,,other
+PM2.5 monitor,35.201592,-101.909275,,,,,other
+PM2.5 monitor,35.210016,-101.832384,,,,,other
+PM2.5 monitor,29.010825,-95.397677,,,,,background (over 50 km from coal)
+PM2.5 monitor,28.964381,-95.354971,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.628336,-96.362821,,,,,other
+PM2.5 monitor,29.30265,-103.17781,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.3658,-103.6491,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.805816,-97.356526,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.759722,-97.328056,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.759148,-97.342323,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.664758,-97.337905,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.693056,-97.248611,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.7392,-97.47033,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.741667,-97.468889,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.35384,-97.691587,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.354934,-97.761737,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.483166,-97.872324,,,,,background (over 50 km from coal)
+PM2.5 monitor,30.263207,-97.712885,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.507952,-99.524016,,,,,background (over 50 km from coal)
+PM2.5 monitor,27.599587,-99.53341,,,,,background (over 50 km from coal)
+PM2.5 monitor,29.888276,-97.87806,,,,,background (over 50 km from coal)
+PM2.5 monitor,25.900968,-97.507788,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.135173,-97.630039,,,,,background (over 50 km from coal)
+PM2.5 monitor,26.071097,-97.15773,,,,,background (over 50 km from coal)
+PM2.5 monitor,25.892518,-97.49383,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.132423,-96.786404,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.886389,-111.882222,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.902967,-111.884467,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.294178,-110.009732,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.216779,-110.182742,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.566055,-109.53716,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.74743,-113.055525,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.492707,-112.018863,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.485007,-112.021476,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.945874,-112.233973,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.708611,-112.094722,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.712146,-112.111275,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.8075,-111.921111,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.598056,-111.894167,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.646667,-111.849722,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.518056,-112.022222,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.736389,-111.872222,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.704444,-111.968611,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.517946,-112.023051,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.78422,-111.931,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.496392,-112.036298,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.709762,-112.00876,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.777145,-111.945849,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.807897,-112.087717,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.766528,-111.82835,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.662961,-111.901851,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.597778,-112.466667,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.543309,-112.299618,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.60055,-112.35578,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.452267,-109.510393,,,,,other
+PM2.5 monitor,40.46471,-109.561472,,,,,other
+PM2.5 monitor,39.63551,-109.43128,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.868622,-109.097302,,,,,other
+PM2.5 monitor,40.253611,-111.663056,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.341389,-111.713611,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.430278,-111.803889,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.136378,-111.657936,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.731111,-111.8375,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.8594,-111.8952,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.63546,-111.86819,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.842649,-111.852199,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.497962,-111.39763,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.1983,-113.1506,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.179125,-113.305096,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.219167,-111.972778,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.303614,-111.987871,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.206321,-111.975524,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.179722,-111.983056,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.59575,-110.770111,,,,,other
+PM2.5 monitor,34.518515,-91.55896,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.529766,-90.586049,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.583699,-94.226234,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.259775,-93.10005,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.729603,-92.243587,,,,,other
+PM2.5 monitor,34.681343,-92.328697,,,,,other
+PM2.5 monitor,34.756189,-92.281296,,,,,other
+PM2.5 monitor,35.389672,-94.424288,,,,,other
+PM2.5 monitor,33.220563,-92.672263,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.1797,-94.116827,,,,,other
+PM2.5 monitor,35.24894,-91.715596,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.139471,-91.939208,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.837638,-90.679516,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.197288,-90.193141,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,35.105193,-92.427859,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.469441,-93.000178,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.637283,-91.188906,,,,,other
+PM2.5 monitor,36.459691,-94.205662,,,,,other
+PM2.5 monitor,36.435172,-94.229248,,,,,other
+PM2.5 monitor,43.926574,-73.384203,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.867746,-73.355735,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.608056,-72.982778,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.197283,-72.502882,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.88759,-73.24984,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.880079,-73.183996,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.480278,-73.214444,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.4762,-73.2106,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.52839,-72.86884,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.02473,-77.48925,,,,,other
+PM2.5 monitor,38.5231,-78.43471,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.8577,-77.05922,,,,,other
+PM2.5 monitor,38.66373,-78.50442,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.28342,-79.88452,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.47753,-78.81952,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.07657,-78.50397,,,,,other
+PM2.5 monitor,37.34438,-77.25925,,,,,other
+PM2.5 monitor,37.43467,-77.45118,,,,,other
+PM2.5 monitor,37.35748,-77.59355,,,,,other
+PM2.5 monitor,38.810403,-77.04435,,,,,other
+PM2.5 monitor,36.608,-82.1641,,,,,other
+PM2.5 monitor,36.804037,-76.272162,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.868168,-77.142758,,,,,other
+PM2.5 monitor,38.83738,-77.16338,,,,,other
+PM2.5 monitor,38.77335,-77.10468,,,,,other
+PM2.5 monitor,38.76835,-77.18347,,,,,other
+PM2.5 monitor,38.9326,-77.19822,,,,,other
+PM2.5 monitor,37.000983,-76.398633,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.103733,-76.387017,,,,,other
+PM2.5 monitor,37.35681,-79.175024,,,,,other
+PM2.5 monitor,37.332706,-79.215011,,,,,other
+PM2.5 monitor,39.28102,-78.08157,,,,,other
+PM2.5 monitor,37.0998,-76.48105,,,,,other
+PM2.5 monitor,36.85555,-76.30135,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.510703,-77.498041,,,,,other
+PM2.5 monitor,37.59088,-77.46925,,,,,other
+PM2.5 monitor,37.256248,-79.98476,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.297167,-79.955733,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.292079,-80.056707,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.297883,-80.081017,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.841883,-76.181233,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,37.55652,-77.40027,,,,,other
+PM2.5 monitor,37.67132,-77.5664,,,,,other
+PM2.5 monitor,47.12,-118.3819,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.648333,-122.586944,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.586785,-122.40287,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.8639,-122.410889,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.64987,-122.5901,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.64336,-122.58737,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.139444,-122.961944,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.1303,-119.2737,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.97228,-123.83173,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.425416,-117.060445,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.12919,-122.77897,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.49022,-121.77278,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.386111,-122.230278,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.523432,-122.324014,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.1411,-121.9379,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.755,-122.2806,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.794821,-122.130681,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.597222,-122.319722,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.383433,-122.233454,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.61311,-122.20161,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.4785,-122.3111,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.55975,-122.338265,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.498535,-122.278385,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.568236,-122.308628,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.2875,-122.2144,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.390821,-122.25585,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.592675,-122.627397,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.7356,-122.556,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.99364,-120.545,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.717881,-122.969575,,,,,other
+PM2.5 monitor,46.401631,-122.955557,,,,,other
+PM2.5 monitor,47.227649,-123.115827,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.39999,-119.51896,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.165311,-118.9848,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.36451,-120.121113,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.21835,-119.204153,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.14,-122.3003,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.22634,-122.46256,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.1864,-122.4517,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.2656,-122.3858,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.52059,-122.61428,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.431495,-122.31488,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.694425,-121.883215,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.054315,-122.171529,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.2469,-121.6031,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.893611,-122.269722,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.8064,-122.3167,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.41645,-117.52997,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.660743,-117.358121,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.663962,-117.257654,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.672482,-117.364852,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.69978,-117.42635,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.715456,-117.042701,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.544722,-117.903611,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.544448,-117.903425,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.279805,-117.714376,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.029396,-122.821548,,,,,other
+PM2.5 monitor,47.598863,-120.664702,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.43061,-120.34195,,,,,background (over 50 km from coal)
+PM2.5 monitor,47.412222,-120.318333,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.05881,-118.35147,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.76278,-122.44028,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.760036,-122.456463,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.72447,-117.18014,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.878221,-117.365183,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.38024,-120.33266,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.37543,-120.72932,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.31932,-119.999677,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.594952,-120.512283,,,,,background (over 50 km from coal)
+PM2.5 monitor,48.11697,-123.464555,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.323533,-81.552367,,,,,other
+PM2.5 monitor,38.424133,-82.4259,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,38.410242,-82.432436,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.421539,-80.580717,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.427372,-80.592318,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,39.448105,-77.963845,,,,,other
+PM2.5 monitor,39.278117,-80.34225,,,,,other
+PM2.5 monitor,38.3456,-81.628317,,,,,other
+PM2.5 monitor,38.366183,-81.693717,,,,,other
+PM2.5 monitor,38.448833,-81.684717,,,,,other
+PM2.5 monitor,38.346258,-81.621161,,,,,other
+PM2.5 monitor,38.34843,-81.62679,,,,,other
+PM2.5 monitor,39.481483,-80.134667,,,,,other
+PM2.5 monitor,39.915961,-80.733858,,,,,other
+PM2.5 monitor,37.267437,-81.235677,,,,,other
+PM2.5 monitor,39.649444,-79.920278,,,,,other
+PM2.5 monitor,40.114876,-80.700972,,,,,other
+PM2.5 monitor,40.063903,-80.720308,,,,,other
+PM2.5 monitor,37.807767,-81.197433,,,,,other
+PM2.5 monitor,37.773176,-80.706472,,,,,other
+PM2.5 monitor,40.394651,-80.611813,,,,,near (within 35 km of a PM2.5 event)
+PM2.5 monitor,40.341023,-80.596635,,,,,other
+PM2.5 monitor,42.501126,-89.033721,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.50908,-89.06281,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.124437,-92.662696,,,,,other
+PM2.5 monitor,43.4351,-89.67979,,,,,other
+PM2.5 monitor,45.2066,-90.5972,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.0519,-89.654,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.020075,-88.21507,,,,,other
+PM2.5 monitor,43.007222,-88.229722,,,,,other
+PM2.5 monitor,44.35288,-89.05083,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.075262,-88.529835,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.382465,-89.819291,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.08194,-89.376786,,,,,other
+PM2.5 monitor,43.10101,-89.35768,,,,,other
+PM2.5 monitor,43.0733,-89.4358,,,,,other
+PM2.5 monitor,43.092996,-89.340168,,,,,other
+PM2.5 monitor,43.46611,-88.62111,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.434996,-88.527879,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.2384,-86.994,,,,,background (over 50 km from coal)
+PM2.5 monitor,46.60234,-90.65615,,,,,other
+PM2.5 monitor,46.730218,-92.079912,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.812,-91.496,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.76249,-91.41445,,,,,background (over 50 km from coal)
+PM2.5 monitor,45.56498,-88.80859,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.69302,-90.69813,,,,,other
+PM2.5 monitor,44.334686,-90.792025,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.183884,-88.994276,,,,,other
+PM2.5 monitor,42.50472,-87.8093,,,,,other
+PM2.5 monitor,43.7775,-91.2269,,,,,other
+PM2.5 monitor,44.13862,-87.61612,,,,,other
+PM2.5 monitor,44.70735,-89.77192,,,,,other
+PM2.5 monitor,43.01724,-87.93369,,,,,other
+PM2.5 monitor,43.060975,-87.913504,,,,,other
+PM2.5 monitor,43.02641,-87.91111,,,,,other
+PM2.5 monitor,43.097778,-88.007778,,,,,other
+PM2.5 monitor,43.034444,-88.043167,,,,,other
+PM2.5 monitor,42.93257,-87.93434,,,,,other
+PM2.5 monitor,42.930708,-87.931983,,,,,other
+PM2.5 monitor,42.955016,-87.934251,,,,,other
+PM2.5 monitor,43.039871,-87.920794,,,,,other
+PM2.5 monitor,44.020855,-90.40164,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.30738,-88.39509,,,,,other
+PM2.5 monitor,43.34317,-87.92087,,,,,other
+PM2.5 monitor,43.4983,-87.8102,,,,,other
+PM2.5 monitor,44.415549,-87.994269,,,,,other
+PM2.5 monitor,44.53098,-87.90799,,,,,other
+PM2.5 monitor,44.415556,-87.988333,,,,,other
+PM2.5 monitor,44.50729,-87.99344,,,,,other
+PM2.5 monitor,44.523604,-88.001215,,,,,other
+PM2.5 monitor,41.30283,-105.586,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.32417,-105.61489,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.308825,-105.54913,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.311586,-105.591725,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.842168,-108.736281,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.832736,-108.739562,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.081667,-107.549444,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.02421,-108.3637,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.274208,-107.691767,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.02421,-108.3637,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.258556,-108.578889,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.529999,-108.720003,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.203452,-104.545153,,,,,other
+PM2.5 monitor,42.059,-104.1675,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.136846,-104.818239,,,,,other
+PM2.5 monitor,41.182227,-104.778334,,,,,other
+PM2.5 monitor,41.13069,-104.75308,,,,,other
+PM2.5 monitor,41.08536,-104.52277,,,,,other
+PM2.5 monitor,41.08536,-104.52277,,,,,other
+PM2.5 monitor,41.783083,-110.53788,,,,,other
+PM2.5 monitor,42.851064,-106.325088,,,,,other
+PM2.5 monitor,42.82231,-106.36501,,,,,other
+PM2.5 monitor,42.8463,-106.27767,,,,,other
+PM2.5 monitor,44.524568,-109.06926,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.52612,-109.01673,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.8357,-108.386,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.797161,-106.949853,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.78275,-106.96432,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.815142,-106.955933,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.805494,-106.976243,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.80353,-106.961763,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.803888,-106.961388,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.869824,-109.87076,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.486361,-110.098861,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.870531,-109.860957,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.98,-110.353,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.575,-109.207,,,,,other
+PM2.5 monitor,41.55643,-109.53044,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.588856,-109.237842,,,,,other
+PM2.5 monitor,41.592536,-109.220852,,,,,other
+PM2.5 monitor,41.588717,-109.760975,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.45776,-110.79799,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.373056,-110.830833,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.480762,-110.76604,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.48256,-110.74526,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.007919,-107.956965,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.84989,-104.20432,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.288005,-105.517022,,,,,other
+PM2.5 monitor,44.502675,-105.539763,,,,,other
+PM2.5 monitor,43.751577,-105.493081,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.265833,-105.504167,,,,,other
+PM2.5 monitor,43.676916,-105.23637,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.6483,-105.2133,,,,,background (over 50 km from coal)
+PM2.5 monitor,44.097074,-105.343164,,,,,other
+PM2.5 monitor,44.465968,-105.551745,,,,,other
+PM2.5 monitor,41.783389,-107.119184,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.80546,-107.22695,,,,,background (over 50 km from coal)
+PM2.5 monitor,42.766972,-105.303528,,,,,other
+PM2.5 monitor,43.426621,-105.386453,,,,,background (over 50 km from coal)
+PM2.5 monitor,43.42542,-105.388566,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.535833,-121.961823,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.814781,-122.282347,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.793624,-122.263376,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.864767,-122.302741,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.701222,-121.903019,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.68975,-121.77155,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.687526,-121.784217,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.743065,-122.169935,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.138773,-121.618549,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.17093,-122.25556,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.73475,-122.9412,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.332179,-119.291228,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.30815,-119.3129,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.48947,-118.82915,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.18919,-121.99887,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.021221,-122.281803,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.44806,-119.2313,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.276316,-118.683685,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.25239,-119.143182,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.210169,-118.870509,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.404281,-118.80998,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.66121,-121.73269,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.9604,-122.356811,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.936013,-122.026154,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.75613,-124.20347,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.78538,-119.77321,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.634225,-120.382331,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.710833,-119.7775,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.985119,-119.658339,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.819449,-119.716433,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.72639,-119.733,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.781333,-119.77319,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.80178,-124.1621,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.77678,-124.17949,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.71528,-124.20139,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.047117,-123.675233,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.379078,-116.015997,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.79222,-115.56306,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.67618,-115.48307,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.97833,-115.53917,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.487823,-117.871036,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.595556,-118.049167,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.362137,-118.417478,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.155494,-118.293547,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.360684,-118.330783,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.385574,-119.015009,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.050551,-118.147294,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.356615,-119.062613,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.62109,-117.67296,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.324636,-118.997627,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.642943,-117.715066,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.046528,-118.162833,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.04944,-118.18893,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.31567,-119.643447,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.102244,-119.56565,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.0327,-122.92229,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.01893,-122.91333,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.17605,-118.31712,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.06659,-118.22688,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.19925,-118.53276,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.92899,-118.21071,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.901389,-118.205,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.01029,-118.0685,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.1365,-117.92391,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.1326,-118.1272,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.82376,-118.18921,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.79236,-118.17533,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.859662,-118.200707,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.793713,-118.171019,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.669739,-118.130511,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.725389,-118.178601,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.953256,-120.034203,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.2136,-119.699065,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.97231,-122.520004,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.412942,-123.353621,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.41174,-123.35264,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.39861,-123.35872,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.15047,-123.20655,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.289732,-120.429718,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.30832,-120.480456,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.281853,-120.433671,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.64571,-118.96652,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.962069,-119.120278,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.694261,-121.623271,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.48187,-121.73333,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.209286,-121.126371,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.310942,-122.296189,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.278849,-122.275024,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.32783,-120.184592,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.233477,-121.055608,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.63003,-117.67593,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.83062,-117.93845,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.93568,-121.09959,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.74643,-121.26498,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.939567,-120.944376,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.808333,-120.471667,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.81336,-120.47069,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.747236,-115.820124,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.94603,-117.40063,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.944713,-116.830074,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.70853,-116.21537,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.72537,-116.206842,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.71969,-116.1897,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.85275,-116.54101,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.99958,-117.41601,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.99636,-117.4924,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.447867,-117.088649,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.56844,-121.49311,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.683304,-121.164457,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.593322,-121.503795,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.556326,-121.458499,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.494475,-121.211131,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.613779,-121.368014,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.843425,-121.3621,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.757371,-121.843286,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.76168,-121.84047,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.10002,-117.49201,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.037234,-117.690889,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.030833,-117.61722,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.510961,-117.32554,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.26464,-116.86147,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.106678,-117.274063,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.631242,-117.059088,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.127769,-117.075086,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.842318,-116.768293,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.217046,-117.396249,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.701492,-117.149653,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.725226,-116.365203,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.578165,-116.921374,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.845709,-117.123964,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.985428,-117.082198,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.817978,-116.968133,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.789565,-116.944308,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.552824,-117.047345,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.710177,-117.142665,,,,,background (over 50 km from coal)
+PM2.5 monitor,33.362593,-117.09023,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.791194,-116.942092,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.836461,-117.128752,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.6509,-116.365,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.765946,-122.399044,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.950741,-121.268523,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.961578,-121.281414,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.793392,-121.247874,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.02083,-120.56388,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.25651,-120.6693,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.04673,-120.58777,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.259502,-120.64472,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.49158,-120.66804,,,,,background (over 50 km from coal)
+PM2.5 monitor,35.49453,-120.66617,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.482934,-122.20337,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.942872,-120.435611,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.890667,-120.432844,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.427775,-119.691218,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.63782,-120.4575,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.44551,-119.8284,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.605819,-120.075069,,,,,background (over 50 km from coal)
+PM2.5 monitor,34.39424,-119.514721,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.999571,-121.574684,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.348497,-121.894898,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.338135,-121.849783,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.048008,-122.075695,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.06315,-122.083092,,,,,background (over 50 km from coal)
+PM2.5 monitor,36.98332,-121.98822,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.6304,-122.4031,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.69184,-122.40179,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.55013,-122.38092,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.20185,-120.680277,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.726892,-122.633579,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.102507,-122.237976,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.443503,-122.710169,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.403765,-122.818294,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.642165,-120.994212,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.488317,-120.836008,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.175378,-66.725988,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.009558,-66.627249,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.449814,-66.05251,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.420089,-66.150615,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.39982,-66.171125,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.198712,-66.052237,,,,,other
+PM2.5 monitor,18.383983,-65.618888,,,,,background (over 50 km from coal)
+PM2.5 monitor,17.955378,-66.162122,,,,,other
+PM2.5 monitor,17.957894,-66.165016,,,,,other
+PM2.5 monitor,18.045111,-66.802253,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.440095,-66.11446,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.15344,-65.828617,,,,,other
+PM2.5 monitor,18.260509,-66.854065,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.207732,-67.146013,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.200099,-67.14588,,,,,background (over 50 km from coal)
+PM2.5 monitor,17.712474,-64.784868,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.343811,-64.931389,,,,,background (over 50 km from coal)
+PM2.5 monitor,18.343289,-64.922922,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.8281,-104.93647,,,,,other
+PM2.5 monitor,39.838119,-104.94984,,,,,other
+PM2.5 monitor,39.826007,-104.937438,,,,,other
+PM2.5 monitor,39.82835,-104.93836,,,,,other
+PM2.5 monitor,38.263058,-104.612133,,,,,other
+PM2.5 monitor,38.276099,-104.597613,,,,,other
+PM2.5 monitor,40.086944,-108.761389,,,,,other
+PM2.5 monitor,40.485201,-106.831625,,,,,other
+PM2.5 monitor,37.937872,-107.813061,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.414877,-104.70693,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.209387,-104.82405,,,,,other
+PM2.5 monitor,40.012969,-105.267212,,,,,other
+PM2.5 monitor,40.021097,-105.263382,,,,,other
+PM2.5 monitor,40.164576,-105.100856,,,,,other
+PM2.5 monitor,38.739213,-108.07307,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.8764,-107.6023,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.469391,-105.878691,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.738578,-104.939925,,,,,other
+PM2.5 monitor,39.751184,-104.987625,,,,,other
+PM2.5 monitor,39.781083,-104.95665,,,,,other
+PM2.5 monitor,39.704005,-104.998113,,,,,other
+PM2.5 monitor,39.77949,-105.00518,,,,,other
+PM2.5 monitor,39.73217,-105.0153,,,,,other
+PM2.5 monitor,39.7861,-104.9886,,,,,other
+PM2.5 monitor,39.534488,-105.070358,,,,,other
+PM2.5 monitor,39.332928,-104.745221,,,,,other
+PM2.5 monitor,39.231384,-104.63477,,,,,other
+PM2.5 monitor,38.828042,-104.827739,,,,,other
+PM2.5 monitor,38.848014,-104.828564,,,,,other
+PM2.5 monitor,38.43829,-105.24504,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.43806,-108.02611,,,,,other
+PM2.5 monitor,39.5464,-107.3286,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.604399,-105.019526,,,,,other
+PM2.5 monitor,40.5506,-106.385,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.13678,-107.62863,,,,,background (over 50 km from coal)
+PM2.5 monitor,37.10258,-107.870219,,,,,background (over 50 km from coal)
+PM2.5 monitor,40.515109,-104.949932,,,,,other
+PM2.5 monitor,40.571288,-105.079693,,,,,other
+PM2.5 monitor,37.26842,-107.009659,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.063798,-108.561173,,,,,other
+PM2.5 monitor,37.350054,-108.592334,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.240278,-105.983056,,,,,background (over 50 km from coal)
+PM2.5 monitor,39.19296,-106.82323,,,,,background (over 50 km from coal)
+PM2.5 monitor,38.084688,-102.618641,,,,,other
+PM2.5 monitor,32.629225,-115.447769,,,,,background (over 50 km from coal)
+PM2.5 monitor,32.633671,-115.504995,,,,,background (over 50 km from coal)
+PM2.5 monitor,31.291293,-110.951513,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.170833,-73.194722,,,,,other
+PM2.5 monitor,41.399167,-73.443056,,,,,other
+PM2.5 monitor,41.1125,-73.407222,,,,,other
+PM2.5 monitor,41.118333,-73.336667,,,,,other
+PM2.5 monitor,41.35362,-72.07882,,,,,other
+PM2.5 monitor,41.524167,-72.076667,,,,,other
+PM2.5 monitor,41.784722,-72.631667,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.7425,-72.634444,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.771444,-72.679923,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.64486,-73.07908,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.821342,-73.297257,,,,,background (over 50 km from coal)
+PM2.5 monitor,41.310833,-72.916944,,,,,other
+PM2.5 monitor,41.331389,-72.919722,,,,,other
+PM2.5 monitor,41.550556,-73.043611,,,,,other
+PM2.5 monitor,41.291111,-72.894167,,,,,other
+PM2.5 monitor,41.3014,-72.902871,,,,,other
+PM2.5 monitor,49.145602,-103.091252,,,,,background (over 50 km from coal)
+PM2.5 monitor,49.135138,-102.984855,,,,,background (over 50 km from coal)

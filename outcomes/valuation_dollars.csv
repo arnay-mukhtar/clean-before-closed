@@ -1,0 +1,8 @@
+item,counterfactual,last_full_year,ten_years_before,deaths,dollars_bn,dollars_per_kw_year
+"annual, 750 matched exits",2678.9834993180903,4583.473275394706,10733.69849400689,,,
+cumulative: 2010 emissions (advocacy rule),,,,56368.53727657923,649.0486441675157,
+cumulative: last full year,,,,36133.39073416575,416.05351847456313,
+cumulative: counterfactual,,,,19349.27926119463,222.79491498025857,
+per GW-year: counterfactual,,,,19.814413838529923,,228.15065031349278
+per GW-year: last full year,,,,34.773214569967344,,400.3919360057778
+per GW-year: ten years before,,,,85.52605477885753,,984.7793215361373
