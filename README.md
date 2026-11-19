@@ -8,6 +8,9 @@ Before Retirement* (Arnay Mukhtar, working paper, November 2026).
 **Pre-registration:** [10.17605/OSF.IO/V7S6E](https://doi.org/10.17605/OSF.IO/V7S6E), filed 9 November 2026; addendum for the Almaty prediction [10.17605/OSF.IO/D5Q34](https://doi.org/10.17605/OSF.IO/D5Q34)  
 **Code and data archive:** OSF project [osf.io/e3unc](https://osf.io/e3unc), DOI [10.17605/OSF.IO/E3UNC](https://doi.org/10.17605/OSF.IO/E3UNC), with SHA-256 fingerprints for every file
 
+**Replication package (Zenodo):** [10.5281/zenodo.24358604](https://doi.org/10.5281/zenodo.24358604): scripts, outputs, derived data and SHA-256 fingerprints in one citable archive
+
+
 ---
 
 ## What the paper finds
@@ -89,3 +92,6 @@ Code released under the MIT Licence. The input data remain subject to their prov
 
 Mukhtar, A. (2026). *Clean Before Closed: How Much of the Health Benefit of Retiring Coal Plants
 Arrives Before Retirement.* Working paper, SSRN 7690098.
+
+Replication package: Mukhtar, A. (2026). *Replication package for: Clean Before Closed.* Zenodo. https://doi.org/10.5281/zenodo.24358604
+
