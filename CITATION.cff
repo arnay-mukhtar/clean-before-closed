@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the paper and the package."
+title: "Replication package for: Clean Before Closed: How Much of the Health Benefit of Retiring Coal Plants Arrives Before Retirement"
+authors:
+  - family-names: Mukhtar
+    given-names: Arnay
+    orcid: "https://orcid.org/0009-0003-5546-0418"
+    email: mukhtarovarnay@gmail.com
+license: MIT
+doi: "10.5281/zenodo.24358604"
+date-released: 2026-11-19
+repository-code: "https://github.com/arnay-mukhtar/clean-before-closed"
+keywords:
+  - coal plant retirement
+  - air pollution
+  - PM2.5
+  - sulfate
+  - benefit valuation
+  - pre-registration
+  - InMAP
+preferred-citation:
+  type: article
+  title: "Clean Before Closed: How Much of the Health Benefit of Retiring Coal Plants Arrives Before Retirement"
+  authors:
+    - family-names: Mukhtar
+      given-names: Arnay
+      orcid: "https://orcid.org/0009-0003-5546-0418"
+  year: 2026
+  doi: "10.2139/ssrn.7690098"
+  notes: "Working paper. Pre-registration: https://doi.org/10.17605/OSF.IO/V7S6E"
